@@ -14,3 +14,11 @@ Multi Theft Auto Online is a project of mine that aims to keep MTA:SA and possib
 
 # Support
 If you want to contribute or support this project, feel free to reach out to me or create issues and requests. All help is much appreciated!
+
+
+# Project Organization
+This project is divided up into different repositories:
+- Multi Theft Auto Online REST API:
+- Multi Theft Auto Online REST API Client:
+- Multi Theft Auto Online Server:
+- Multi Theft Auto Online Resources:
