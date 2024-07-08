@@ -10,7 +10,8 @@ Multi Theft Auto Online is a project that aims to provide a feature rich communi
 - SSO Login (Login once, play on any server)
 
 # Gameplay features
-- Freemode: Ability to play freely with weapons, vehicles, and do activities.
+- Freemode: Ability to play freely with weapons, vehicles, and take part in activities.
+- Ability to own properties and vehicles
 - Ambience: Peds, traffic, working public services such as airports and train stations
 
 # Support
