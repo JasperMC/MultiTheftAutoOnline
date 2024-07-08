@@ -4,12 +4,13 @@ Multi Theft Auto Online is a project of mine that aims to keep MTA:SA and possib
 
 
 # Planned Features
-- Scaling and matchmaking using Kubernetes and Google Agones
+- Matchmaking
 - Interconnectability between servers (chat with friends, etc)
 - SSO Login (no need to login again and again)
 
 # Gameplay features
 - Freemode: Ability to play freely with properties, vehicles and missions.
+- Ambience: Peds, traffic, world occurrences
 - Dedicated missions to play with others.
 
 # Support
