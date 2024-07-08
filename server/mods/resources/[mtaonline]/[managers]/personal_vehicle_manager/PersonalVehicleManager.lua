@@ -2,6 +2,7 @@
 PersonalVehicleManager = {
     players = {}
     vehicles = {}
+    allow_requests = true
 }
 
 function PersonalVehicleManager.new( self, o )
