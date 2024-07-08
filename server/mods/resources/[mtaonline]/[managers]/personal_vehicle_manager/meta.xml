@@ -1,0 +1,7 @@
+<meta>
+    <info name="Personal Vehicle Manager" author="Jasper" version="1.0.0"/>
+    <script type="server" src="PersonalVehicle.lua" />
+    <script type="server" src="PersonalVehicleManager.lua" />
+    <resource name="character_manager" />
+    <resource name="custom_vehicle_upgrades" />
+</meta>

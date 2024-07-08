@@ -1,0 +1,6 @@
+<meta>
+    <info name="Character Manager" />
+    <script type="server" src="Character.lua" />
+    <script type="server" src="CharacterManager.lua" />
+    <resource name="account_manager" />
+</meta>
