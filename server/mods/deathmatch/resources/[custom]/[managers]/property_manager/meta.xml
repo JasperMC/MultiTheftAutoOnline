@@ -1,0 +1,4 @@
+<meta>
+    <info name="Property Manager" description="" author="Jasper" version="1.0" />
+    <script src="server/PropertyManager.lua" type="server" />
+</meta>

@@ -36,6 +36,7 @@
     <group name="RPC">
         <acl name="RPC"></acl>
         <object name="resource.ip2c"></object>
+        <object name="resource.player_manager"></object>
     </group>
     <group name="MapEditor">
         <acl name="Default"></acl>

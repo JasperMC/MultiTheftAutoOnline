@@ -1,0 +1,8 @@
+<meta>
+    <info name="" description="" author="Jasper" version="1.0" />
+    <min_mta_version server="1.5.4-9.11342" />
+    <script src="shared/util.lua" type="shared" />
+    <script src="server/PlayerManager.lua" type="server" />
+    <script src="server/PlayerFunctions.lua" type="server" />
+    <script src="server/PlayerEvents.lua" type="server" />
+</meta>
