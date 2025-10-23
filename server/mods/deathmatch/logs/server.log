@@ -1,0 +1,865 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-21 19:59:16] File 'settings.xml' not present, creating new node.
+[2025-10-21 19:59:25] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-10-21 19:59:27] Resources: 200 loaded, 0 failed
+[2025-10-21 19:59:27] Starting resources...
+[2025-10-21 19:59:28] Admin access list successfully updated 
+[2025-10-21 19:59:28] INFO: Admin added 570 missing rights
+[2025-10-21 19:59:28] Server minclientversion is now 1.5.9-9.20957.0
+[2025-10-21 19:59:28] Server minclientversion is now 1.6.0-9.22676
+[2025-10-21 19:59:29] INFO: ===============================================================================
+[2025-10-21 19:59:29] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-10-21 19:59:29] Gamemode 'play' started.
+[2025-10-21 19:59:29] Querying MTA master server... success! (Auto detected IP:77.251.160.162)
+[2025-10-21 19:59:29] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-10-21 19:59:29] WARNING: <owner_email_address> not set
+[2025-10-21 19:59:29] Server started and is ready to accept connections!
+[2025-10-21 19:59:29] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-10-21 19:59:29] Type 'help' for a list of commands.
+[2025-10-21 19:59:35] INFO: ===============================================================================
+[2025-10-21 20:03:25] New resource 'hdhud' loaded
+[2025-10-21 20:03:25] New resource 'hdradar' loaded
+[2025-10-21 20:03:25] Resources: 202 loaded, 0 failed
+[2025-10-21 20:03:31] Server minclientversion is now 1.6.0-9.23324.0
+[2025-10-21 20:03:31] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-21 20:03:32] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-21 20:03:41] start: Requested by Console
+[2025-10-21 20:03:41] Starting hdhud
+[2025-10-21 20:03:41] start: Resource 'hdhud' started
+[2025-10-21 20:03:43] start: Requested by Console
+[2025-10-21 20:03:44] Starting hdradar
+[2025-10-21 20:03:44] start: Resource 'hdradar' started
+[2025-10-21 20:09:09] New resource 'housing_system' loaded
+[2025-10-21 20:09:09] Resources: 203 loaded, 0 failed
+[2025-10-21 20:09:16] start: Requested by Console
+[2025-10-21 20:09:16] Starting housing_system
+[2025-10-21 20:09:16] start: Resource 'housing_system' started
+[2025-10-21 20:09:19] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2025-10-21 20:09:20] Server stopped!
+[2025-10-21 20:09:20] Stopping resources...............................
+[2025-10-21 20:09:20] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-21 20:11:07] Compacting accounts database 'internal.db' ...
+[2025-10-21 20:11:07] ERROR: Error parsing acl.xml - Line 27: Error reading Attributes.
+[2025-10-21 20:11:08] Server stopped!
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-21 20:13:02] ERROR: Error parsing acl.xml - Line 27: Error reading Attributes.
+[2025-10-21 20:13:03] Server stopped!
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-21 20:13:25] ERROR: Error parsing acl.xml - Line 27: Error reading Attributes.
+[2025-10-21 20:13:26] Server stopped!
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-21 20:13:47] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-10-21 20:13:47] Resources: 203 loaded, 0 failed
+[2025-10-21 20:13:47] Starting resources...
+[2025-10-21 20:13:47] Server minclientversion is now 1.6.0-9.23324.0
+[2025-10-21 20:13:48] INFO: ===============================================================================
+[2025-10-21 20:13:48] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-10-21 20:13:48] Gamemode 'play' started.
+[2025-10-21 20:13:48] Querying MTA master server... success! (Auto detected IP:77.251.160.162)
+[2025-10-21 20:13:48] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-10-21 20:13:48] WARNING: <owner_email_address> not set
+[2025-10-21 20:13:48] Server started and is ready to accept connections!
+[2025-10-21 20:13:48] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-10-21 20:13:48] Type 'help' for a list of commands.
+[2025-10-21 20:13:53] ACCOUNTS: Console added account 'Jasper'
+[2025-10-21 20:13:54] INFO: ===============================================================================
+[2025-10-21 20:14:02] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-21 20:14:02] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-21 20:14:50] LOGIN: (Everyone) PeacefulDreams successfully logged in as 'Jasper' (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43)
+[2025-10-21 20:15:08] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2025-10-21 20:15:09] Server stopped!
+[2025-10-21 20:15:09] Stopping resources............................
+[2025-10-21 20:15:09] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-21 20:15:58] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-10-21 20:15:58] Resources: 204 loaded, 0 failed
+[2025-10-21 20:15:58] Starting resources...
+[2025-10-21 20:15:58] Server minclientversion is now 1.6.0-9.23324.0
+[2025-10-21 20:15:59] INFO: ===============================================================================
+[2025-10-21 20:15:59] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-10-21 20:15:59] Gamemode 'play' started.
+[2025-10-21 20:15:59] Querying MTA master server... success! (Auto detected IP:77.251.160.162)
+[2025-10-21 20:15:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-10-21 20:15:59] WARNING: <owner_email_address> not set
+[2025-10-21 20:15:59] Server started and is ready to accept connections!
+[2025-10-21 20:15:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-10-21 20:15:59] Type 'help' for a list of commands.
+[2025-10-21 20:16:05] INFO: ===============================================================================
+[2025-10-21 20:16:05] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-21 20:16:05] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-21 20:16:43] LOGIN: (Everyone, Admin) PeacefulDreams successfully logged in as 'Jasper' (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43)
+[2025-10-21 20:16:59] start: Requested by PeacefulDreams(Jasper)
+[2025-10-21 20:16:59] Please wait...
+[2025-10-21 20:16:59] Please wait...
+[2025-10-21 20:17:00] Please wait...
+[2025-10-21 20:17:00] Please wait...
+[2025-10-21 20:17:01] Starting newtraffic
+[2025-10-21 20:17:04] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:10] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x23]
+[2025-10-21 20:17:10] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x7]
+[2025-10-21 20:17:12] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:17:12] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x3]
+[2025-10-21 20:17:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:18] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x23]
+[2025-10-21 20:17:18] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x20]
+[2025-10-21 20:17:22] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:17:22] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x5]
+[2025-10-21 20:17:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:28] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x35]
+[2025-10-21 20:17:28] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x23]
+[2025-10-21 20:17:32] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:17:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x5]
+[2025-10-21 20:17:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:36] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x24]
+[2025-10-21 20:17:36] ERROR: newtraffic\traffic_server.lua:186: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2025-10-21 20:17:37] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:42] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x41]
+[2025-10-21 20:17:42] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:17:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x6]
+[2025-10-21 20:17:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x41]
+[2025-10-21 20:17:49] INFO: EXPLODE: userdata: 0000008B
+[2025-10-21 20:17:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x20]
+[2025-10-21 20:17:52] WARNING: newtraffic\traffic_server.lua:62: Bad argument @ 'destroyElement' [Expected element at argument 1]
+[2025-10-21 20:17:52] INFO: UNLOAD: userdata: 0000008B
+[2025-10-21 20:17:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x6]
+[2025-10-21 20:17:52] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:17:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x6]
+[2025-10-21 20:17:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:17:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x45]
+[2025-10-21 20:17:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x35]
+[2025-10-21 20:18:02] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:18:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x10]
+[2025-10-21 20:18:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x75]
+[2025-10-21 20:18:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x53]
+[2025-10-21 20:18:12] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:18:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x13]
+[2025-10-21 20:18:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x87]
+[2025-10-21 20:18:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x44]
+[2025-10-21 20:18:22] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:18:22] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x14]
+[2025-10-21 20:18:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:28] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x90]
+[2025-10-21 20:18:28] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x67]
+[2025-10-21 20:18:32] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:18:32] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x18]
+[2025-10-21 20:18:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:38] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x99]
+[2025-10-21 20:18:38] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:42] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x98]
+[2025-10-21 20:18:42] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:18:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x19]
+[2025-10-21 20:18:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x123]
+[2025-10-21 20:18:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:50] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:18:50] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:50] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:18:50] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:18:50] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:51] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x43]
+[2025-10-21 20:18:51] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:51] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:18:51] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:18:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:18:52] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:18:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:18:53] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:53] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:18:53] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:18:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:54] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x43]
+[2025-10-21 20:18:54] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:54] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:18:54] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:18:55] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:56] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:18:56] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:56] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:18:56] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:18:56] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:57] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x43]
+[2025-10-21 20:18:57] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:57] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:18:57] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:18:58] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:18:59] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:18:59] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:18:59] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:18:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:00] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x43]
+[2025-10-21 20:19:00] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:00] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:00] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:01] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:19:02] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:02] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:02] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:19:02] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:19:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:19:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x21]
+[2025-10-21 20:19:03] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:03] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:03] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:04] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x137]
+[2025-10-21 20:19:09] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:09] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:09] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:10] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:11] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x23]
+[2025-10-21 20:19:11] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:11] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:11] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:11] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x47]
+[2025-10-21 20:19:12] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:12] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:12] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:12] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:19:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x23]
+[2025-10-21 20:19:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:16] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x95]
+[2025-10-21 20:19:16] INFO: return ignored nil
+[2025-10-21 20:19:16] ERROR: newtraffic\traffic_server.lua:191: attempt to index local 'next' (a nil value)
+[2025-10-21 20:19:17] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x143]
+[2025-10-21 20:19:22] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:19:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x23]
+[2025-10-21 20:19:23] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:23] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:23] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:24] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x47]
+[2025-10-21 20:19:24] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:24] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:24] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:25] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:26] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x23]
+[2025-10-21 20:19:26] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:26] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:26] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:26] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:28] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x51]
+[2025-10-21 20:19:28] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:28] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:28] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:28] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x27]
+[2025-10-21 20:19:29] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:29] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:29] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:31] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x57]
+[2025-10-21 20:19:31] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:31] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:31] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:31] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x29]
+[2025-10-21 20:19:32] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:32] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:32] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x29]
+[2025-10-21 20:19:32] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:19:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x29]
+[2025-10-21 20:19:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:34] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x30]
+[2025-10-21 20:19:34] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:34] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:34] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:34] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:35] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x30]
+[2025-10-21 20:19:35] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:35] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:35] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:35] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:37] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x61]
+[2025-10-21 20:19:37] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:37] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:19:37] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:19:37] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:42] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x157]
+[2025-10-21 20:19:42] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:19:42] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x31]
+[2025-10-21 20:19:42] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:48] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x162]
+[2025-10-21 20:19:48] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x168]
+[2025-10-21 20:19:52] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:19:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x33]
+[2025-10-21 20:19:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:19:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x203]
+[2025-10-21 20:19:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x137]
+[2025-10-21 20:20:02] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:20:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x34]
+[2025-10-21 20:20:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x209]
+[2025-10-21 20:20:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x141]
+[2025-10-21 20:20:12] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:20:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x35]
+[2025-10-21 20:20:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x221]
+[2025-10-21 20:20:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x151]
+[2025-10-21 20:20:22] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:20:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x37]
+[2025-10-21 20:20:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x237]
+[2025-10-21 20:20:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x160]
+[2025-10-21 20:20:32] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:20:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x40]
+[2025-10-21 20:20:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:39] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x245]
+[2025-10-21 20:20:39] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:42] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x170]
+[2025-10-21 20:20:42] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:20:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x42]
+[2025-10-21 20:20:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x220]
+[2025-10-21 20:20:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x174]
+[2025-10-21 20:20:52] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:20:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x43]
+[2025-10-21 20:20:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:20:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x270]
+[2025-10-21 20:20:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x187]
+[2025-10-21 20:21:02] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:21:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x46]
+[2025-10-21 20:21:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x283]
+[2025-10-21 20:21:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x193]
+[2025-10-21 20:21:12] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:21:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x48]
+[2025-10-21 20:21:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x299]
+[2025-10-21 20:21:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x201]
+[2025-10-21 20:21:22] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:21:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x50]
+[2025-10-21 20:21:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x305]
+[2025-10-21 20:21:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x211]
+[2025-10-21 20:21:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:21:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x53]
+[2025-10-21 20:21:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:39] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x323]
+[2025-10-21 20:21:39] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x215]
+[2025-10-21 20:21:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:21:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x53]
+[2025-10-21 20:21:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x277]
+[2025-10-21 20:21:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x225]
+[2025-10-21 20:21:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:21:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x56]
+[2025-10-21 20:21:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:21:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x341]
+[2025-10-21 20:21:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x227]
+[2025-10-21 20:22:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:22:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x56]
+[2025-10-21 20:22:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x341]
+[2025-10-21 20:22:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x234]
+[2025-10-21 20:22:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:22:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x60]
+[2025-10-21 20:22:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x368]
+[2025-10-21 20:22:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x251]
+[2025-10-21 20:22:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:22:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x62]
+[2025-10-21 20:22:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x377]
+[2025-10-21 20:22:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x251]
+[2025-10-21 20:22:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:22:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x63]
+[2025-10-21 20:22:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:39] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x319]
+[2025-10-21 20:22:39] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x322]
+[2025-10-21 20:22:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:22:44] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x65]
+[2025-10-21 20:22:44] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:50] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x399]
+[2025-10-21 20:22:50] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x203]
+[2025-10-21 20:22:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:22:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x68]
+[2025-10-21 20:22:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:22:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x416]
+[2025-10-21 20:22:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x284]
+[2025-10-21 20:23:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:23:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x71]
+[2025-10-21 20:23:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x431]
+[2025-10-21 20:23:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x289]
+[2025-10-21 20:23:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:23:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x72]
+[2025-10-21 20:23:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x445]
+[2025-10-21 20:23:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x299]
+[2025-10-21 20:23:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:23:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x74]
+[2025-10-21 20:23:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x449]
+[2025-10-21 20:23:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x304]
+[2025-10-21 20:23:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:23:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x76]
+[2025-10-21 20:23:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:39] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x463]
+[2025-10-21 20:23:39] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x311]
+[2025-10-21 20:23:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:23:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x77]
+[2025-10-21 20:23:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:44] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x77]
+[2025-10-21 20:23:44] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:44] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:44] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:44] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:45] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x80]
+[2025-10-21 20:23:45] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:45] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:45] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:45] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:47] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x163]
+[2025-10-21 20:23:47] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:47] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:47] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:47] ERROR: newtraffic\traffic_server.lua:186: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2025-10-21 20:23:47] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:48] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x81]
+[2025-10-21 20:23:48] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:48] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:48] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:48] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:50] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x163]
+[2025-10-21 20:23:50] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:50] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:50] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:50] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:51] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x81]
+[2025-10-21 20:23:51] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:51] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:51] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x163]
+[2025-10-21 20:23:53] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:53] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:53] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:23:54] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x81]
+[2025-10-21 20:23:54] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:54] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x82]
+[2025-10-21 20:23:54] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:54] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:54] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:55] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:56] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x165]
+[2025-10-21 20:23:56] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:56] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:56] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:57] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:57] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x82]
+[2025-10-21 20:23:57] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:57] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:57] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:23:58] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x165]
+[2025-10-21 20:23:59] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:23:59] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:23:59] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:00] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:00] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x82]
+[2025-10-21 20:24:00] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:00] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:00] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:01] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x165]
+[2025-10-21 20:24:02] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:02] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:02] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x82]
+[2025-10-21 20:24:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:24:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x82]
+[2025-10-21 20:24:03] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:03] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:03] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:04] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:05] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x82]
+[2025-10-21 20:24:05] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:05] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:05] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:05] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:06] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x167]
+[2025-10-21 20:24:06] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:06] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:06] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:07] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:08] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x83]
+[2025-10-21 20:24:08] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:08] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:08] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:08] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x167]
+[2025-10-21 20:24:09] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:09] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:09] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:10] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:11] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x84]
+[2025-10-21 20:24:11] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:11] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:11] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:11] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x169]
+[2025-10-21 20:24:12] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:12] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:12] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:24:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x84]
+[2025-10-21 20:24:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:14] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x84]
+[2025-10-21 20:24:14] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:14] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:14] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:14] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:15] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x169]
+[2025-10-21 20:24:15] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:15] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:15] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:16] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:17] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x85]
+[2025-10-21 20:24:17] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:17] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:17] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:17] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:18] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x171]
+[2025-10-21 20:24:18] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:18] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:18] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:20] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x85]
+[2025-10-21 20:24:20] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:20] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:20] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:20] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x172]
+[2025-10-21 20:24:22] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:22] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:22] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:22] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x86]
+[2025-10-21 20:24:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:24:23] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x86]
+[2025-10-21 20:24:23] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:23] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:23] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:23] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:25] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x175]
+[2025-10-21 20:24:25] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:25] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:25] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:25] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:26] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x87]
+[2025-10-21 20:24:26] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:26] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:26] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:26] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:28] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x175]
+[2025-10-21 20:24:28] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:28] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:28] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:28] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x88]
+[2025-10-21 20:24:29] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:29] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:29] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:29] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:31] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x178]
+[2025-10-21 20:24:31] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:31] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:31] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:31] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x89]
+[2025-10-21 20:24:32] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:32] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:32] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:32] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x89]
+[2025-10-21 20:24:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:24:33] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x89]
+[2025-10-21 20:24:33] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:34] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x89]
+[2025-10-21 20:24:34] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:34] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:34] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:34] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:35] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x89]
+[2025-10-21 20:24:35] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:35] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:35] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:35] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:37] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x179]
+[2025-10-21 20:24:37] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:37] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:37] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:37] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:38] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x89]
+[2025-10-21 20:24:38] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:38] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:38] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:38] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:40] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x179]
+[2025-10-21 20:24:40] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:40] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:40] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:40] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:41] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x89]
+[2025-10-21 20:24:41] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:41] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:41] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:41] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x180]
+[2025-10-21 20:24:43] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:43] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:43] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:24:43] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x90]
+[2025-10-21 20:24:43] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:44] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x90]
+[2025-10-21 20:24:44] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:44] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:44] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:44] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:46] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x184]
+[2025-10-21 20:24:46] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:46] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:46] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:47] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:47] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x92]
+[2025-10-21 20:24:47] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:47] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:47] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:48] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:49] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x185]
+[2025-10-21 20:24:49] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:49] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:49] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:50] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:50] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x92]
+[2025-10-21 20:24:50] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:50] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:50] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:51] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:52] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x185]
+[2025-10-21 20:24:52] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:52] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:52] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:53] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x92]
+[2025-10-21 20:24:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:24:53] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x92]
+[2025-10-21 20:24:53] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:53] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:53] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:54] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:55] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x185]
+[2025-10-21 20:24:55] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:55] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:55] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:56] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:56] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x92]
+[2025-10-21 20:24:56] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:56] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:56] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:57] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:58] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x187]
+[2025-10-21 20:24:58] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:58] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:58] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:24:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:59] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x93]
+[2025-10-21 20:24:59] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:24:59] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:24:59] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:00] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:01] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x191]
+[2025-10-21 20:25:01] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:01] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:01] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:02] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x95]
+[2025-10-21 20:25:02] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:02] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:02] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:03] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x95]
+[2025-10-21 20:25:03] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:25:04] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x95]
+[2025-10-21 20:25:04] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:04] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x95]
+[2025-10-21 20:25:04] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:04] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:04] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:05] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:06] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x95]
+[2025-10-21 20:25:06] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:06] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:06] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:06] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:07] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x191]
+[2025-10-21 20:25:07] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:07] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:07] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:08] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x95]
+[2025-10-21 20:25:09] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:09] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:09] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:09] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:10] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x192]
+[2025-10-21 20:25:10] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:10] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:10] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:11] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x96]
+[2025-10-21 20:25:12] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:12] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:12] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:12] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x96]
+[2025-10-21 20:25:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]
+[2025-10-21 20:25:13] WARNING: newtraffic\traffic_server.lua:75: Bad argument @ 'getElementChild' [Expected element at argument 1]  [DUP x96]
+[2025-10-21 20:25:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:13] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x96]
+[2025-10-21 20:25:13] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:13] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:13] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:14] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:15] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x96]
+[2025-10-21 20:25:15] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:15] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:15] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:15] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:16] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x194]
+[2025-10-21 20:25:16] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:16] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:16] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:17] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:18] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x98]
+[2025-10-21 20:25:18] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:18] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:18] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:18] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:18] QUIT: PeacefulDreams left the game [Quit] 
+[2025-10-21 20:25:19] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]  [DUP x198]
+[2025-10-21 20:25:19] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementSyncer' [Expected element at argument 1]
+[2025-10-21 20:25:19] WARNING: newtraffic\traffic_server.lua:173: Bad argument @ 'getElementPosition' [Expected element at argument 1]
+[2025-10-21 20:25:19] ERROR: newtraffic\traffic_common.lua:24: attempt to perform arithmetic on local 'x' (a boolean value)
+[2025-10-21 20:25:20] WARNING: newtraffic\traffic_server.lua:84: Bad argument @ 'getElementSyncer' [Expected element at argument 1]

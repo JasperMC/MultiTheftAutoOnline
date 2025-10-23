@@ -1,5 +1,0 @@
-<upgrades>
-    <upgrade id="1" name="Cruise Control" short_name="cruise_control" description="Add cruise control to your vehicle" price="100" />
-    <upgrade id="2" name="Speedometer" short_name="speedometer" description="Add a speedometer to your vehicle" price="100" />
-
-</upgrades>

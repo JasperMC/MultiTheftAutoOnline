@@ -1,4 +1,0 @@
-<meta>
-    <info name="Server Manager" version="1.0.0" />
-    <script type="server" src="Server.lua" />
-</meta>
