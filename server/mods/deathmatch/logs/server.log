@@ -12293,3 +12293,158 @@
 [2025-10-23 13:48:18] INFO: email: test@test.com
 [2025-10-23 13:48:18] NICK: PeacefulDreams is now known as Jasper
 [2025-10-23 14:38:51] QUIT: Jasper left the game [Quit] 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..line/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-23 15:02:54] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-10-23 15:02:57] Resources: 206 loaded, 0 failed
+[2025-10-23 15:02:57] Starting resources...
+[2025-10-23 15:02:57] Server minclientversion is now 1.6.0-9.23324.0
+[2025-10-23 15:02:57] INFO: ===============================================================================
+[2025-10-23 15:02:57] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-10-23 15:02:57] Gamemode 'play' started.
+[2025-10-23 15:02:57] Querying MTA master server... success! (Auto detected IP:77.251.160.162)
+[2025-10-23 15:02:57] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-10-23 15:02:57] WARNING: <owner_email_address> not set
+[2025-10-23 15:02:57] Server started and is ready to accept connections!
+[2025-10-23 15:02:57] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-10-23 15:02:57] Type 'help' for a list of commands.
+[2025-10-23 15:03:03] INFO: ===============================================================================
+[2025-10-23 15:03:15] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-23 15:03:17] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-23 15:04:25] start: Requested by Console
+[2025-10-23 15:04:25] Starting player_manager
+[2025-10-23 15:04:25] start: Resource 'player_manager' started
+[2025-10-23 15:04:44] INFO: postData: '{ "username": "Jasper", "password": "pass123" }'
+[2025-10-23 15:04:44] INFO: Got here 1
+[2025-10-23 15:04:44] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"pass123","email":"test@test.com","model":6,"cash":500,"__v":0}]
+[2025-10-23 15:04:44] INFO: nil
+[2025-10-23 15:04:44] INFO: table: 05E7B790
+[2025-10-23 15:04:44] INFO: password: pass123
+[2025-10-23 15:04:44] INFO: username: Jasper
+[2025-10-23 15:04:44] INFO: _id: 68fa14db061d86e1b7649fbc
+[2025-10-23 15:04:44] INFO: cash: 500
+[2025-10-23 15:04:44] INFO: model: 6
+[2025-10-23 15:04:44] INFO: __v: 0
+[2025-10-23 15:04:44] INFO: email: test@test.com
+[2025-10-23 15:04:44] NICK: PeacefulDreams is now known as Jasper
+[2025-10-23 15:27:21] restart: Requested by Console
+[2025-10-23 15:27:21] restart: Resource 'player_manager' restarting...
+[2025-10-23 15:27:21] Stopping player_manager
+[2025-10-23 15:27:22] Resource 'player_manager' changed, reloading and starting
+[2025-10-23 15:27:22] Starting player_manager
+[2025-10-23 15:27:22] player_manager restarted successfully
+[2025-10-23 15:27:31] INFO: postData: '{ "username": "Jasper", "password": "pass123" }'
+[2025-10-23 15:27:32] INFO: Got here 1
+[2025-10-23 15:27:32] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"pass123","email":"test@test.com","model":6,"cash":500,"__v":0}]
+[2025-10-23 15:27:32] INFO: nil
+[2025-10-23 15:27:32] INFO: table: 05E787E8
+[2025-10-23 15:27:32] INFO: password: pass123
+[2025-10-23 15:27:32] INFO: username: Jasper
+[2025-10-23 15:27:32] INFO: _id: 68fa14db061d86e1b7649fbc
+[2025-10-23 15:27:32] INFO: cash: 500
+[2025-10-23 15:27:32] INFO: model: 6
+[2025-10-23 15:27:32] INFO: __v: 0
+[2025-10-23 15:27:32] INFO: email: test@test.com
+[2025-10-23 15:28:16] restart: Requested by Console
+[2025-10-23 15:28:16] restart: Resource 'player_manager' restarting...
+[2025-10-23 15:28:16] Stopping player_manager
+[2025-10-23 15:28:16] Starting player_manager
+[2025-10-23 15:28:16] player_manager restarted successfully
+[2025-10-23 15:30:37] INFO: postData: '{ "username": "Jasper", "password": "pass123" }'
+[2025-10-23 15:30:37] INFO: Got here 1
+[2025-10-23 15:30:37] INFO: 500
+[2025-10-23 15:30:37] INFO: {"message":"Cast to ObjectId failed for value \"login\" (type string) at path \"_id\" for model \"player\""}
+[2025-10-23 15:34:28] restart: Requested by Console
+[2025-10-23 15:34:28] restart: Resource 'player_manager' restarting...
+[2025-10-23 15:34:28] Stopping player_manager
+[2025-10-23 15:34:29] Resource 'player_manager' changed, reloading and starting
+[2025-10-23 15:34:29] Starting player_manager
+[2025-10-23 15:34:29] player_manager restarted successfully
+[2025-10-23 15:35:26] INFO: postData: '{ "username": "Jasper", "password": "pass123" }'
+[2025-10-23 15:35:26] INFO: Got here 1
+[2025-10-23 15:35:26] INFO: 500
+[2025-10-23 15:35:26] INFO: {"message":"Cast to ObjectId failed for value \"login\" (type string) at path \"_id\" for model \"player\""}
+[2025-10-23 15:35:56] restart: Requested by Console
+[2025-10-23 15:35:56] restart: Resource 'player_manager' restarting...
+[2025-10-23 15:35:56] Stopping player_manager
+[2025-10-23 15:35:56] Starting player_manager
+[2025-10-23 15:35:56] player_manager restarted successfully
+[2025-10-23 15:36:02] INFO: postData: '{ "username": "Jasper", "password": "pass123" }'
+[2025-10-23 15:36:08] INFO: Got here 1
+[2025-10-23 15:36:08] INFO: 500
+[2025-10-23 15:36:08] INFO: {"message":"Cast to ObjectId failed for value \"login\" (type string) at path \"_id\" for model \"player\""}
+[2025-10-23 15:37:04] restart: Requested by Console
+[2025-10-23 15:37:04] restart: Resource 'player_manager' restarting...
+[2025-10-23 15:37:04] Stopping player_manager
+[2025-10-23 15:37:04] Starting player_manager
+[2025-10-23 15:37:04] player_manager restarted successfully
+[2025-10-23 15:37:08] INFO: postData: '{ "username": "Jasper", "password": "pass123" }'
+[2025-10-23 15:37:08] INFO: Got here 1
+[2025-10-23 15:37:08] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"pass123","email":"test@test.com","model":6,"cash":500,"__v":0}]
+[2025-10-23 15:37:08] INFO: nil
+[2025-10-23 15:37:08] INFO: table: 05F5E7D8
+[2025-10-23 15:37:08] INFO: password: pass123
+[2025-10-23 15:37:08] INFO: username: Jasper
+[2025-10-23 15:37:08] INFO: _id: 68fa14db061d86e1b7649fbc
+[2025-10-23 15:37:08] INFO: cash: 500
+[2025-10-23 15:37:08] INFO: model: 6
+[2025-10-23 15:37:08] INFO: __v: 0
+[2025-10-23 15:37:08] INFO: email: test@test.com
+[2025-10-23 15:38:33] QUIT: Jasper left the game [Quit] 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..line/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-23 19:24:59] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-10-23 19:24:59] Resources: 206 loaded, 0 failed
+[2025-10-23 19:24:59] Starting resources...
+[2025-10-23 19:24:59] Server minclientversion is now 1.6.0-9.23324.0
+[2025-10-23 19:25:00] INFO: ===============================================================================
+[2025-10-23 19:25:00] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-10-23 19:25:00] Gamemode 'play' started.
+[2025-10-23 19:25:00] Querying MTA master server... success! (Auto detected IP:77.251.160.162)
+[2025-10-23 19:25:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-10-23 19:25:00] WARNING: <owner_email_address> not set
+[2025-10-23 19:25:00] Server started and is ready to accept connections!
+[2025-10-23 19:25:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-10-23 19:25:00] Type 'help' for a list of commands.
+[2025-10-23 19:25:06] INFO: ===============================================================================
+[2025-10-23 19:26:55] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-23 19:26:56] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-23 19:27:27] start: Requested by Console
+[2025-10-23 19:27:27] Starting player_manager
+[2025-10-23 19:27:27] start: Resource 'player_manager' started
+[2025-10-23 19:27:35] INFO: postData: '{ "username": "Jasper", "password": "pass123" }'
+[2025-10-23 19:27:35] INFO: Got here 1
+[2025-10-23 19:27:35] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"pass123","email":"test@test.com","model":6,"cash":500,"__v":0}]
+[2025-10-23 19:27:35] INFO: nil
+[2025-10-23 19:27:35] INFO: table: 06919870
+[2025-10-23 19:27:35] INFO: password: pass123
+[2025-10-23 19:27:35] INFO: username: Jasper
+[2025-10-23 19:27:35] INFO: _id: 68fa14db061d86e1b7649fbc
+[2025-10-23 19:27:35] INFO: cash: 500
+[2025-10-23 19:27:35] INFO: model: 6
+[2025-10-23 19:27:35] INFO: __v: 0
+[2025-10-23 19:27:35] INFO: email: test@test.com
+[2025-10-23 19:27:35] NICK: PeacefulDreams is now known as Jasper
+[2025-10-23 19:46:45] QUIT: Jasper left the game [Quit] 

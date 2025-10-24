@@ -54,3 +54,10 @@ function(player, cmd, username, password)
     triggerEvent("onPlayerRequestLogin", player, username, nil, password)
 end
 )
+
+addCommandHandler("rmodel",
+    function(player, cmd, model )
+        updatePlayer(player, {["model"] = model})
+        setElementModel(player, model)
+    end
+)
