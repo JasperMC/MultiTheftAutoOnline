@@ -31,3 +31,7 @@ function getClosestSpawnpoint( element, spawnpoints )
  return closest_spawnpoint, closest_distance
 end
 
+function getRandomSpawnpoint( spawnpoints )
+  return spawnpoints[math.random( 1, #spawnpoints )]
+end
+
