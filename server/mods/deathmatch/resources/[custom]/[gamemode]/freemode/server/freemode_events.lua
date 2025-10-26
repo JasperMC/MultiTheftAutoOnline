@@ -39,7 +39,6 @@ addEventHandler("onPlayerJoin", root,
 -- On Player Login
 addEventHandler("onPlayerLogin", root,
     function()
-    
     end
 )
 
