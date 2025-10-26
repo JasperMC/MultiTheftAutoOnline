@@ -27,6 +27,7 @@ function getClosestSpawnpoint( element, spawnpoints )
      closest_spawnpoint = spawnpoint
      closest_distance = distance
    end
+ end
  return closest_spawnpoint, closest_distance
 end
 
