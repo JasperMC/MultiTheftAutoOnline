@@ -1,0 +1,6 @@
+<meta>
+    <info type="gamemode" />
+    <script src="server/freemode_functions_s.lua" type="server" />
+    <script src="server/freemode_events_s.lua" type="server" />
+    <script src="server/freemode_s.lua" type="server" />
+</meta>
