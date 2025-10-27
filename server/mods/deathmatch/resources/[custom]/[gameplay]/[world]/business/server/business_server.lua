@@ -4,7 +4,15 @@ function createBusiness( business )
 
 end
 
-function setBusinessState( state )
+function destroyBusiness( business )
+
+end
+
+function setBusinessForSale( business, state )
+
+end
+
+function setBusinessState( business, state )
 
 end
 
