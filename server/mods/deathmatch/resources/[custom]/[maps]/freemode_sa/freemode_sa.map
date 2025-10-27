@@ -1,0 +1,16 @@
+<map edf:definitions="deathmatch">
+    <spawnpoint id="Hospital (Jefferson)" type="hospital" interior="0" skin="121" dimension="0" posX="2036.7" posY="-1410.5" posZ="17.2" rotX="0" rotY="0" rotZ="-130" scale="0"></spawnpoint>
+    <spawnpoint id="Skatepark" interior="0" skin="121" dimension="0" posX="1864.2998" posY="-1380" posZ="13.5" rotX="0" rotY="0" rotZ="98" scale="0"></spawnpoint>
+    <spawnpoint id="All Saints General Hospital (Market)" type="hospital" interior="0" skin="121" dimension="0" posX="1178" posY="-1323.7" posZ="14.1" rotX="0" rotY="0" rotZ="90" scale="0"></spawnpoint>
+    <spawnpoint id="Police Station (Pershing Square)" type="police_station" interior="0" skin="121" dimension="0" posX="1546.2" posY="-1675.5" posZ="13.6" rotX="0" rotY="0" rotZ="90" scale="0"></spawnpoint>
+    <spawnpoint id="Hospital LV" type="hospital" interior="0" skin="121" dimension="0" posX="1607" posY="1823.3" posZ="10.8" rotX="0" rotY="0" rotZ="0" scale="0"></spawnpoint>
+    <spawnpoint id="Las Venturas Airport" interior="0" skin="121" dimension="0" posX="1685.6" posY="1447.6" posZ="10.8" rotX="0" rotY="0" rotZ="90" scale="0"></spawnpoint>
+    <spawnpoint id="Clown&apos;s Pocket" interior="0" skin="121" dimension="0" posX="2221.6001" posY="1839.6" posZ="10.8" rotX="0" rotY="0" rotZ="88" scale="0"></spawnpoint>
+    <spawnpoint id="Police Station (Downtown)" type="police_station" interior="0" skin="121" dimension="0" posX="-1604.9" posY="716.59998" posZ="11.9" rotX="0" rotY="0" rotZ="0" scale="0"></spawnpoint>
+    <spawnpoint id="City Hall (San Fierro)" interior="0" skin="121" dimension="0" posX="-1553.1" posY="1061.8" posZ="7.2" rotX="0" rotY="0" rotZ="-102" scale="0"></spawnpoint>
+    <spawnpoint id="San Fierro Medical Center" type="hospital" interior="0" skin="121" dimension="0" posX="-2662.3999" posY="632.79999" posZ="14.5" rotX="0" rotY="0" rotZ="0" scale="0"></spawnpoint>
+    <pickup id="pickup (health) (1)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="-2656" posY="638.5" posZ="14.5" rotX="0" rotY="0" rotZ="0" scale="1"></pickup>
+    <pickup id="pickup (health) (2)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2041.1" posY="-1410.9" posZ="17.2" rotX="0" rotY="0" rotZ="0" scale="1"></pickup>
+    <pickup id="pickup (health) (3)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1172.5" posY="-1323.7" posZ="15.4" rotX="0" rotY="0" rotZ="0" scale="1"></pickup>
+    <pickup id="pickup (health) (4)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1607.7" posY="1816.8" posZ="10.8" rotX="0" rotY="0" rotZ="0" scale="1"></pickup>
+</map>

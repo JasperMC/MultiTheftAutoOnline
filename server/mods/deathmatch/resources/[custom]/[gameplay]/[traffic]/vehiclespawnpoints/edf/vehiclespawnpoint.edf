@@ -1,0 +1,22 @@
+<def name="Vehicle Spawnpoint">
+    <element name="vehiclespawn" friendlyname="Vehicle Spawnpoint" instructions="">
+        <data name="group" type="selection:aircraft,boat,land" />
+        <data name="subgroup" type="selection:bikes" />
+        <data name="vehiclecolors" type="vehiclecolors" />
+        <data name="vehicleupgrades" type="vehicleupgrades" />
+        <data name="plate" type="plate" />
+        <data name="position" type="coord3d" default="0,0,0" />
+        <data name="rotation" type="coord3d" default="0,0,0" />
+        <data name="lock_rotation" type="boolean" default="false" />
+        <data name="spawn_type" type="selection:chance,time,always,parkingspot" default="parkingspot" />
+        <data name="spawn_data" type="string" default="" />
+    </element>
+
+    <element name="zone" friendlyname="Zone">
+        <data name="name" type="string" />
+    </element>
+
+    <element name="city" friendlyname="City">
+        <data name="name" type="string" />
+    </element>
+</def>

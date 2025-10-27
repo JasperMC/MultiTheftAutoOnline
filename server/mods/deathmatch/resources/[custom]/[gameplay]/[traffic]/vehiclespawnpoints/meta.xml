@@ -1,0 +1,10 @@
+<meta>
+    <info name="Vehicle Spawnpoints" type="script" edf:definition="edf/vehiclespawnpoint.edf" />
+    <oop>true</oop>
+    <script src="shared/vehicle_data.lua" type="shared" />
+    <script src="shared/vehiclespawnpoint_shared.lua" type="shared" />
+    <script src="server/vehiclespawnpoint_s.lua" type="server" />
+    <script src="client/client.lua" type="client" />
+    <script src="client/util.lua" type="client" />
+    <map src="vehiclespawnpoints.map" />
+</meta>
