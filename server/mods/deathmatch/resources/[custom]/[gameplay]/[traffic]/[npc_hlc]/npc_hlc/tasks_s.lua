@@ -72,3 +72,20 @@ function performTask.waitForGreenLight(npc,task,maxtime)
 	return maxtime
 end
 
+function performTask.waitForVehicleToStop( npc, task, maxtime )
+	local vehicle = getPedOccupiedVehicle(npc)
+	if not vehicle then return 0 end
+	if getElementSyncer(vehicle) then return maxtime end
+end
+
+function performTask.exitVehicle( npc, task, maxtime )
+	local vehicle = getPedOccupiedVehicle(npc)
+	if not vehicle then return maxtime end
+	if getElementSyncer(vehicle) then return maxtime end
+end
+
+function performTask.enterVehicle( npc, task, maxtime )
+	local vehicle = getPedOccupiedVehicle(npc)
+	if vehicle then return maxtime end
+	--if getElementSyncer(vehicle) then return maxtime end
+end

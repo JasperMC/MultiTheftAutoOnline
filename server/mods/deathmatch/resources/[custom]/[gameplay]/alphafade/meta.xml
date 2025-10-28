@@ -1,0 +1,6 @@
+<meta>
+    <info />
+    <script src="alphafade_s.lua" type="server" />
+    <script src="alphafade_c.lua" type="client" />
+    <export function="alphaFade" type="shared" />
+</meta>

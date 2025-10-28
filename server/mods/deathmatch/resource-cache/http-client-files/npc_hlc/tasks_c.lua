@@ -130,3 +130,36 @@ function performTask.waitForGreenLight(npc,task)
 	return true
 end
 
+function performTask.waitForVehicleToStop(npc,task)
+	if isPedInVehicle(npc) then
+		local vehicle = getPedOccupiedVehicle(npc)
+		if vehicle == task[2] then
+			local velX, velY, velZ = getElementVelocity( vehicle )
+			local speed = math.sqrt( (velX * velX) + (velY * velY) + (velZ * velZ) ) * 184
+			return speed < 5
+		end
+	end
+end
+
+function performTask.exitVehicle( npc, task )
+	if isPedInVehicle(npc) then
+		local vehicle = getPedOccupiedVehicle(npc)
+		if vehicle == task[2] then
+			result = setPedExitVehicle(npc)
+			return false
+		end
+	else
+		return true
+	end
+end
+
+function performTask.enterVehicle( npc, task )
+	outputDebugString("triggered enter vehicle task")
+	if not isPedInVehicle(npc) then
+		setPedEnterVehicle( npc, task[2], task[3] ~= 0)
+	else
+		local vehicle = getPedOccupiedVehicle(npc)
+		return vehicle == task[2]
+	end
+end
+

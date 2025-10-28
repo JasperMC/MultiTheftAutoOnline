@@ -58,3 +58,17 @@ function taskValid.waitForGreenLight(task)
 	return dir == "NS" or dir == "WE" or dir == "ped"
 end
 
+function taskValid.waitForVehicleToStop(task)
+	local vehicle = task[2]
+	return isElement(vehicle) and getElementType(vehicle) == "vehicle"
+end
+
+function taskValid.exitVehicle(task)
+	local vehicle = task[2]
+	return isElement(vehicle) and getElementType(vehicle) == "vehicle"
+end
+
+function taskValid.enterVehicle(task)
+	local vehicle = task[2]
+	return isElement(vehicle) and getElementType(vehicle) == "vehicle"
+end

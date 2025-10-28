@@ -15250,3 +15250,1225 @@
 [2025-10-27 14:56:14] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
 [2025-10-27 14:56:14] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
 [2025-10-27 15:01:12] QUIT: PeacefulDreams left the game [Quit] 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..line/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-10-28 06:34:04] ERROR: Couldn't parse meta file for resource 'business' [Line 0: Error document empty.]
+[2025-10-28 06:34:04] Loading of resource 'business' failed
+[2025-10-28 06:34:08] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-28 06:34:09] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-28 06:34:14] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-10-28 06:34:17] ERROR: Couldn't parse meta file for resource 'world_manager' [Line 3: Error reading end tag.]
+[2025-10-28 06:34:17] Loading of resource 'world_manager' failed
+[2025-10-28 06:34:17] ERROR: Problem with resource: business; Couldn't parse meta file for resource 'business' [Line 0: Error document empty.]
+[2025-10-28 06:34:17] ERROR: Problem with resource: world_manager; Couldn't parse meta file for resource 'world_manager' [Line 3: Error reading end tag.]
+[2025-10-28 06:34:17] Resources: 215 loaded, 2 failed
+[2025-10-28 06:34:17] ERROR: Could not bind the server on interface '' and port '22003'!
+[2025-10-28 06:34:17] Server stopped!
+[2025-10-28 06:34:17] Stopping resources...
+[2025-10-28 06:34:17] Closing SQLite3 database
+[2025-10-28 06:47:11] restart: Requested by Console
+[2025-10-28 06:47:11] restart: Resource 'player_manager' restarting...
+[2025-10-28 06:47:11] Stopping player_manager
+[2025-10-28 06:47:11] Resource 'player_manager' changed, reloading and starting
+[2025-10-28 06:47:11] Starting player_manager
+[2025-10-28 06:47:11] player_manager restarted successfully
+[2025-10-28 06:47:18] INFO: postData: '{ "username": "Jasper", "password": "star500" }'
+[2025-10-28 06:47:18] INFO: Got here 1
+[2025-10-28 06:47:18] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"star500","email":"test@test.com","model":6,"cash":500,"weapons":[{"id":22,"ammo":1000},{"id":31,"ammo":1000}],"sessions":[],"__v":0}]
+[2025-10-28 06:47:18] INFO: nil
+[2025-10-28 06:47:18] INFO: table: 1110B758
+[2025-10-28 06:47:18] INFO: _id: 68fa14db061d86e1b7649fbc
+[2025-10-28 06:47:18] ERROR: [managers]\player_manager\server\PlayerEvents.lua:39: attempt to concatenate local 'v' (a table value)
+[2025-10-28 06:52:41] ACL: Denied 'PeacefulDreams' access to command 'restart'
+[2025-10-28 06:53:30] restart: Requested by Console
+[2025-10-28 06:53:30] restart: Resource 'player_manager' restarting...
+[2025-10-28 06:53:30] Stopping player_manager
+[2025-10-28 06:53:30] Resource 'player_manager' changed, reloading and starting
+[2025-10-28 06:53:30] Starting player_manager
+[2025-10-28 06:53:30] player_manager restarted successfully
+[2025-10-28 06:53:36] ACL: Denied 'PeacefulDreams' access to command 'restart'
+[2025-10-28 06:53:43] INFO: postData: '{ "username": "Jasper", "password": "star500" }'
+[2025-10-28 06:53:43] INFO: Got here 1
+[2025-10-28 06:53:44] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"star500","email":"test@test.com","model":6,"cash":500,"weapons":[{"id":22,"ammo":1000},{"id":31,"ammo":1000}],"sessions":[],"__v":0}]
+[2025-10-28 06:53:44] INFO: nil
+[2025-10-28 06:53:44] INFO: table: 0BD1BD40
+[2025-10-28 06:53:44] NICK: PeacefulDreams is now known as Jasper
+[2025-10-28 07:16:10] LOGIN: (Everyone, Admin) Jasper successfully logged in as 'Jasper' (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43)
+[2025-10-28 07:20:58] restart: Requested by Console
+[2025-10-28 07:20:58] restart: Resource 'player_manager' restarting...
+[2025-10-28 07:20:58] Stopping player_manager
+[2025-10-28 07:20:58] Resource 'player_manager' changed, reloading and starting
+[2025-10-28 07:20:58] Starting player_manager
+[2025-10-28 07:20:58] player_manager restarted successfully
+[2025-10-28 07:21:05] QUIT: Jasper left the game [Quit] 
+[2025-10-28 07:21:08] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-28 07:21:08] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-28 07:21:22] INFO: postData: '{ "username": "Jasper", "password": "star500" }'
+[2025-10-28 07:21:22] INFO: Got here 1
+[2025-10-28 07:21:22] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"star500","email":"test@test.com","model":6,"bank":100000,"cash":500,"weapons":[{"id":22,"ammo":1000},{"id":31,"ammo":1000}],"vehicles":[],"sessions":[{"ip":"","serial":"","session_start":"","session_end":""}],"__v":0}]
+[2025-10-28 07:21:22] INFO: nil
+[2025-10-28 07:21:22] INFO: table: 1111B6D0
+[2025-10-28 07:21:22] NICK: PeacefulDreams is now known as Jasper
+[2025-10-28 07:21:22] LOGIN: (Everyone, Admin) Jasper successfully logged in as 'Jasper' (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43)
+[2025-10-28 07:45:55] start: Requested by Jasper
+[2025-10-28 07:45:55] Starting npchlc_traffic
+[2025-10-28 07:45:56] Starting npc_hlc
+[2025-10-28 07:45:56] Starting server_coldata
+[2025-10-28 07:45:57] Loaded path map paths/maps/san_andreas in 1006 ms
+[2025-10-28 07:45:57] Loaded all path maps in 1014 ms
+[2025-10-28 08:00:34] Resource 'parked_vehicles' has been removed, unloading
+[2025-10-28 08:00:34] New resource 'airports' loaded
+[2025-10-28 08:00:34] ERROR: Couldn't find script(s) alphafade_c for resource alphafade
+[2025-10-28 08:00:34] Loading of resource 'alphafade' failed
+[2025-10-28 08:00:34] ERROR: Couldn't parse meta file for resource 'business' [Line 0: Error document empty.]
+[2025-10-28 08:00:34] Loading of resource 'business' failed
+[2025-10-28 08:00:34] Resource 'world_manager' changed, reloading
+[2025-10-28 08:00:34] ERROR: Couldn't parse meta file for resource 'world_manager' [Line 3: Error reading end tag.]
+[2025-10-28 08:00:34] Loading of resource 'world_manager' failed
+[2025-10-28 08:00:34] ERROR: Problem with resource: alphafade; Couldn't find script(s) alphafade_c for resource alphafade
+[2025-10-28 08:00:34] ERROR: Problem with resource: business; Couldn't parse meta file for resource 'business' [Line 0: Error document empty.]
+[2025-10-28 08:00:34] ERROR: Problem with resource: world_manager; Couldn't parse meta file for resource 'world_manager' [Line 3: Error reading end tag.]
+[2025-10-28 08:00:34] Resources: 215 loaded, 3 failed
+[2025-10-28 08:00:42] start: Requested by Jasper
+[2025-10-28 08:01:24] restart: Requested by Jasper
+[2025-10-28 08:01:33] SCRIPT: Jasper set their script debug mode to 3
+[2025-10-28 08:01:43] restart: Requested by Jasper
+[2025-10-28 08:20:28] restart: Requested by Jasper
+[2025-10-28 08:20:55] restart: Requested by Jasper
+[2025-10-28 08:20:58] Resource 'alphafade' changed, reloading
+[2025-10-28 08:20:58] New resource 'alphafade' loaded
+[2025-10-28 08:20:58] Resource 'business' changed, reloading
+[2025-10-28 08:20:58] ERROR: Couldn't parse meta file for resource 'business' [Line 0: Error document empty.]
+[2025-10-28 08:20:58] Loading of resource 'business' failed
+[2025-10-28 08:20:58] Resource 'world_manager' changed, reloading
+[2025-10-28 08:20:58] ERROR: Couldn't parse meta file for resource 'world_manager' [Line 3: Error reading end tag.]
+[2025-10-28 08:20:58] Loading of resource 'world_manager' failed
+[2025-10-28 08:20:58] ERROR: Problem with resource: business; Couldn't parse meta file for resource 'business' [Line 0: Error document empty.]
+[2025-10-28 08:20:58] ERROR: Problem with resource: world_manager; Couldn't parse meta file for resource 'world_manager' [Line 3: Error reading end tag.]
+[2025-10-28 08:20:58] Resources: 216 loaded, 2 failed
+[2025-10-28 08:21:03] restart: Requested by Jasper
+[2025-10-28 08:21:07] start: Requested by Jasper
+[2025-10-28 08:21:07] Starting alphafade
+[2025-10-28 08:21:33] restart: Requested by Jasper
+[2025-10-28 08:21:33] Stopping alphafade
+[2025-10-28 08:21:33] Resource 'alphafade' changed, reloading and starting
+[2025-10-28 08:21:33] Starting alphafade
+[2025-10-28 08:21:33] alphafade restarted successfully
+[2025-10-28 08:22:09] QUIT: Jasper left the game [Timed out] 
+[2025-10-28 08:23:35] restart: Requested by Console
+[2025-10-28 08:23:35] restart: Resource 'alphafade' restarting...
+[2025-10-28 08:23:35] Stopping alphafade
+[2025-10-28 08:23:35] Resource 'alphafade' changed, reloading and starting
+[2025-10-28 08:23:35] Starting alphafade
+[2025-10-28 08:23:35] alphafade restarted successfully
+[2025-10-28 08:24:01] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-28 08:24:02] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-28 08:24:58] ACL: Denied 'PeacefulDreams' access to command 'restart'
+[2025-10-28 08:25:03] INFO: postData: '{ "username": "Jasper", "password": "star500" }'
+[2025-10-28 08:25:03] INFO: Got here 1
+[2025-10-28 08:25:04] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"star500","email":"test@test.com","model":6,"bank":100000,"cash":500,"weapons":[{"id":22,"ammo":1000},{"id":31,"ammo":1000}],"vehicles":[],"sessions":[{"ip":"","serial":"","session_start":"","session_end":""}],"__v":0}]
+[2025-10-28 08:25:04] INFO: nil
+[2025-10-28 08:25:04] INFO: table: 09D4BA40
+[2025-10-28 08:25:04] NICK: PeacefulDreams is now known as Jasper
+[2025-10-28 08:25:04] LOGIN: (Everyone, Admin) Jasper successfully logged in as 'Jasper' (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43)
+[2025-10-28 08:25:05] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:09] restart: Requested by Jasper
+[2025-10-28 08:25:10] Stopping alphafade
+[2025-10-28 08:25:10] Resource 'alphafade' changed, reloading and starting
+[2025-10-28 08:25:11] Starting alphafade
+[2025-10-28 08:25:11] alphafade restarted successfully
+[2025-10-28 08:25:11] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:25:11] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:17] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:25:18] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:24] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:25:24] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:30] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:25:31] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:37] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:25:38] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:39] restart: Requested by Jasper
+[2025-10-28 08:25:39] Stopping npchlc_traffic
+[2025-10-28 08:25:39] Stopping npc_hlc
+[2025-10-28 08:25:39] Stopping server_coldata
+[2025-10-28 08:25:41] Resource 'npchlc_traffic' changed, reloading and starting
+[2025-10-28 08:25:41] Starting npchlc_traffic
+[2025-10-28 08:25:41] Starting npc_hlc
+[2025-10-28 08:25:41] Starting server_coldata
+[2025-10-28 08:25:45] npchlc_traffic restarted successfully
+[2025-10-28 08:25:45] WARN: Received excess unoccupied vehicle sync data (225 bytes)
+[2025-10-28 08:25:45] WARN: Received excess unoccupied vehicle sync data (223 bytes)
+[2025-10-28 08:25:45] WARN: Received excess unoccupied vehicle sync data (224 bytes)
+[2025-10-28 08:25:47] Loaded path map paths/maps/san_andreas in 6189 ms
+[2025-10-28 08:25:47] Loaded all path maps in 6190 ms
+[2025-10-28 08:25:48] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:49] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:49] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:310: bad argument #1 to 'insert' (table expected, got nil)
+[2025-10-28 08:25:50] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:50] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:25:50] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:51] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:51] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:25:52] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:52] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:52] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:25:53] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:54] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:25:54] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:54] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:54] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:25:56] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:56] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:25:56] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:56] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:56] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:25:58] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:58] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:25:58] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:58] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:25:58] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:00] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:00] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:00] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:00] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:00] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:02] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:02] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:02] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:02] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:02] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:04] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:04] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:04] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:04] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:04] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:06] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:06] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:06] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:06] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:06] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:08] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:08] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:08] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:08] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:08] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:11] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:11] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:11] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:11] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:11] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:13] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:13] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:13] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:13] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:13] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:15] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:15] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:15] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:15] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:15] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:17] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:17] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:17] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:17] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:17] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:19] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:19] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:19] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:19] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:19] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:21] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:21] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:21] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:21] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:21] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:23] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:23] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:23] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:23] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:23] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:25] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:25] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:25] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:25] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:25] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:27] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:27] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:27] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:27] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:27] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:29] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:29] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:29] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:29] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:29] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:31] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:31] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:31] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:31] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:31] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:33] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:33] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:33] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:33] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:33] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:35] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:35] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:35] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:35] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:35] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:37] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:37] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:37] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:37] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:37] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:39] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:39] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:39] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:39] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:39] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:41] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:41] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:41] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:41] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:41] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:43] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:43] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:43] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:43] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:43] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:45] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:45] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:45] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:45] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:45] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:47] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:47] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:47] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:47] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:47] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:49] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:49] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:49] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:49] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:49] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:51] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:51] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:51] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:51] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:51] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:53] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:53] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:53] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:53] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:53] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:55] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:55] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:55] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:55] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:55] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:57] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:57] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:57] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:57] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:57] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:59] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:59] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:26:59] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:59] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:26:59] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:01] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:01] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:01] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:01] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:01] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:03] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:03] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:03] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:03] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:03] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:05] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:05] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:05] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:05] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:05] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:06] start: Requested by Console
+[2025-10-28 08:27:06] start: Resource 'vehiclespawnpointrestart' could not be found
+[2025-10-28 08:27:06] start: Resource 'npchlc_traffic' is already running
+[2025-10-28 08:27:07] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:07] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:07] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:07] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:07] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:09] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:09] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:09] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:09] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:09] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:12] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:12] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:12] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:12] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:12] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:14] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:14] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:14] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:14] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:14] ERROR: [gameplay]\[traffic]\npchlc_traffic\generate.lua:232: attempt to compare nil with number
+[2025-10-28 08:27:14] restart: Requested by Console
+[2025-10-28 08:27:14] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 08:27:14] Stopping npchlc_traffic
+[2025-10-28 08:27:14] Stopping npc_hlc
+[2025-10-28 08:27:14] Stopping server_coldata
+[2025-10-28 08:27:14] Resource 'npchlc_traffic' changed, reloading and starting
+[2025-10-28 08:27:14] Starting npchlc_traffic
+[2025-10-28 08:27:14] Starting npc_hlc
+[2025-10-28 08:27:14] Starting server_coldata
+[2025-10-28 08:27:19] npchlc_traffic restarted successfully
+[2025-10-28 08:27:22] Loaded path map paths/maps/san_andreas in 7296 ms
+[2025-10-28 08:27:22] Loaded all path maps in 7310 ms
+[2025-10-28 08:27:23] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:24] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:30] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:27:30] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:36] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:27:36] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:42] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x5]
+[2025-10-28 08:27:43] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:49] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:27:50] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:27:53] restart: Requested by Console
+[2025-10-28 08:27:53] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 08:27:54] Stopping npchlc_traffic
+[2025-10-28 08:27:55] Stopping npc_hlc
+[2025-10-28 08:27:55] Stopping server_coldata
+[2025-10-28 08:27:56] Resource 'npchlc_traffic' changed, reloading and starting
+[2025-10-28 08:27:56] Starting npchlc_traffic
+[2025-10-28 08:27:56] Starting npc_hlc
+[2025-10-28 08:27:56] Starting server_coldata
+[2025-10-28 08:28:00] npchlc_traffic restarted successfully
+[2025-10-28 08:28:00] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x4]
+[2025-10-28 08:28:02] Loaded path map paths/maps/san_andreas in 5918 ms
+[2025-10-28 08:28:02] Loaded all path maps in 5918 ms
+[2025-10-28 08:28:03] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:28:09] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x6]
+[2025-10-28 08:28:09] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:28:15] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x6]
+[2025-10-28 08:28:16] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:28:22] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:28:23] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:28:29] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:28:29] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:28:35] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x6]
+[2025-10-28 08:28:35] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:28:41] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:28:42] stop: Requested by Jasper
+[2025-10-28 08:28:42] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:28:42] Stopping npchlc_traffic
+[2025-10-28 08:28:42] Stopping npc_hlc
+[2025-10-28 08:28:43] Stopping server_coldata
+[2025-10-28 08:31:38] start: Requested by Console
+[2025-10-28 08:31:38] Starting npchlc_traffic
+[2025-10-28 08:31:38] Starting npc_hlc
+[2025-10-28 08:31:38] Starting server_coldata
+[2025-10-28 08:31:42] start: Resource 'npchlc_traffic' started
+[2025-10-28 08:31:42] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:31:46] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:31:46] Loaded path map paths/maps/san_andreas in 8392 ms
+[2025-10-28 08:31:46] Loaded all path maps in 8404 ms
+[2025-10-28 08:31:52] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x5]
+[2025-10-28 08:31:52] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:31:58] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:31:59] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:05] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:32:05] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:11] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:32:12] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:18] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:32:18] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:24] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:32:24] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:30] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:32:31] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:37] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:32:37] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:43] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:32:43] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:49] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:32:49] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:32:55] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:32:55] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:01] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:33:02] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:08] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:33:08] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:14] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:33:14] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:20] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:33:20] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:26] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:33:26] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:32] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:33:32] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:38] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:33:38] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:44] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:33:44] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:50] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:33:50] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:33:56] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:33:56] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:34:00] stop: Requested by Console
+[2025-10-28 08:34:00] stop: Resource 'npchlc_traffic' stopping...
+[2025-10-28 08:34:00] Stopping npchlc_traffic
+[2025-10-28 08:34:01] Stopping npc_hlc
+[2025-10-28 08:34:01] Stopping server_coldata
+[2025-10-28 08:34:02] WARNING: [custom]\[gameplay]\[traffic]\server_coldata\collisions.lua:172: Invalid element model  [DUP x6]
+[2025-10-28 08:34:02] WARN: Received excess unoccupied vehicle sync data (897 bytes)
+[2025-10-28 08:34:02] WARN: Received excess unoccupied vehicle sync data (1157 bytes)
+[2025-10-28 08:34:02] WARN: Received excess unoccupied vehicle sync data (1098 bytes)
+[2025-10-28 08:34:35] Resource 'npc_hlc' has been removed, unloading
+[2025-10-28 08:34:35] Resource 'npchlc_traffic' has been removed, unloading
+[2025-10-28 08:34:35] Resource 'npchlc_traffic_denctrl' has been removed, unloading
+[2025-10-28 08:34:35] Resource 'server_coldata' has been removed, unloading
+[2025-10-28 08:34:35] Resource 'business' changed, reloading
+[2025-10-28 08:34:35] ERROR: Couldn't parse meta file for resource 'business' [Line 0: Error document empty.]
+[2025-10-28 08:34:35] Loading of resource 'business' failed
+[2025-10-28 08:34:35] New resource 'npc_hlc' loaded
+[2025-10-28 08:34:35] New resource 'npchlc_traffic' loaded
+[2025-10-28 08:34:35] New resource 'npchlc_traffic_denctrl' loaded
+[2025-10-28 08:34:35] New resource 'server_coldata' loaded
+[2025-10-28 08:34:35] Resource 'world_manager' changed, reloading
+[2025-10-28 08:34:35] ERROR: Couldn't parse meta file for resource 'world_manager' [Line 3: Error reading end tag.]
+[2025-10-28 08:34:35] Loading of resource 'world_manager' failed
+[2025-10-28 08:34:35] ERROR: Problem with resource: business; Couldn't parse meta file for resource 'business' [Line 0: Error document empty.]
+[2025-10-28 08:34:35] ERROR: Problem with resource: world_manager; Couldn't parse meta file for resource 'world_manager' [Line 3: Error reading end tag.]
+[2025-10-28 08:34:35] Resources: 216 loaded, 2 failed
+[2025-10-28 08:34:41] start: Requested by Console
+[2025-10-28 08:34:41] Starting npchlc_traffic
+[2025-10-28 08:34:41] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 08:34:41] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 08:34:41] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 08:34:41] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 08:34:41] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 08:34:41] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 08:34:41] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 08:34:41] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 08:34:41] Starting npc_hlc
+[2025-10-28 08:34:41] Starting server_coldata
+[2025-10-28 08:34:45] start: Resource 'npchlc_traffic' started
+[2025-10-28 08:34:45] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:34:46] Loaded path map paths/maps/san_andreas in 5647 ms
+[2025-10-28 08:34:46] Loaded all path maps in 5662 ms
+[2025-10-28 08:34:51] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x3]
+[2025-10-28 08:34:51] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:34:57] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:34:57] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:03] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:35:04] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:10] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:35:10] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:16] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:35:16] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:22] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:35:23] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:29] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:35:29] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:35] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:35:36] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:42] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:35:42] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:48] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:35:48] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:35:54] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:35:54] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:00] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:01] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:06] stop: Requested by Console
+[2025-10-28 08:36:06] stop: Resource 'alphafade' stopping...
+[2025-10-28 08:36:06] Stopping alphafade
+[2025-10-28 08:36:07] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:07] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:13] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:13] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:19] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:19] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:25] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:25] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:31] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:32] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:38] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:38] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:44] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:44] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:50] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:50] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:36:56] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:36:56] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:02] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:37:03] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:09] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:37:09] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:15] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:37:15] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:21] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:37:21] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:27] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:37:27] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:33] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:37:33] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:39] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:37:40] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:46] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x9]
+[2025-10-28 08:37:46] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:52] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:37:52] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:37:58] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:37:58] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:04] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:38:04] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:10] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:38:11] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:17] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:38:17] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:23] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:38:23] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:29] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:38:30] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:36] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:38:36] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:40] debugscript: Incorrect client type for this command
+[2025-10-28 08:38:42] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:38:43] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:49] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x9]
+[2025-10-28 08:38:49] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:38:55] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x7]
+[2025-10-28 08:38:55] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:01] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x6]
+[2025-10-28 08:39:01] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:07] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:39:08] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:14] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:39:14] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:20] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:39:20] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:26] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:39:27] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:33] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:39:33] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:39] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x6]
+[2025-10-28 08:39:39] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:42] start: Requested by Console
+[2025-10-28 08:39:42] start: Resource 'npchlc_traffre' could not be found
+[2025-10-28 08:39:45] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:39:45] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:46] restart: Requested by Console
+[2025-10-28 08:39:46] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 08:39:46] Stopping npchlc_traffic
+[2025-10-28 08:39:47] Stopping npc_hlc
+[2025-10-28 08:39:47] Stopping server_coldata
+[2025-10-28 08:39:48] Starting npchlc_traffic
+[2025-10-28 08:39:48] Starting npc_hlc
+[2025-10-28 08:39:48] Resource 'server_coldata' changed, reloading and starting
+[2025-10-28 08:39:49] Starting server_coldata
+[2025-10-28 08:39:53] npchlc_traffic restarted successfully
+[2025-10-28 08:39:53] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:39:53] WARN: Received excess unoccupied vehicle sync data (801 bytes)
+[2025-10-28 08:39:53] WARN: Received excess unoccupied vehicle sync data (1059 bytes)
+[2025-10-28 08:39:55] Loaded path map paths/maps/san_andreas in 6701 ms
+[2025-10-28 08:39:55] Loaded all path maps in 6716 ms
+[2025-10-28 08:39:56] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:40:02] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x6]
+[2025-10-28 08:40:03] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:40:09] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x8]
+[2025-10-28 08:40:09] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:40:15] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x6]
+[2025-10-28 08:40:16] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model
+[2025-10-28 08:40:20] restart: Requested by Console
+[2025-10-28 08:40:20] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 08:40:20] Stopping npchlc_traffic
+[2025-10-28 08:40:20] Stopping npc_hlc
+[2025-10-28 08:40:20] Stopping server_coldata
+[2025-10-28 08:40:22] Starting npchlc_traffic
+[2025-10-28 08:40:22] Starting npc_hlc
+[2025-10-28 08:40:22] Resource 'server_coldata' changed, reloading and starting
+[2025-10-28 08:40:22] Starting server_coldata
+[2025-10-28 08:40:26] npchlc_traffic restarted successfully
+[2025-10-28 08:40:26] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model  [DUP x5]
+[2025-10-28 08:40:26] WARN: Received excess unoccupied vehicle sync data (408 bytes)
+[2025-10-28 08:40:26] WARN: Received excess unoccupied vehicle sync data (443 bytes)
+[2025-10-28 08:40:26] WARN: Received excess unoccupied vehicle sync data (410 bytes)
+[2025-10-28 08:40:28] Loaded path map paths/maps/san_andreas in 6230 ms
+[2025-10-28 08:40:28] Loaded all path maps in 6230 ms
+[2025-10-28 08:40:29] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:40:35] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x6]
+[2025-10-28 08:40:36] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:40:42] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x7]
+[2025-10-28 08:40:42] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:40:48] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x7]
+[2025-10-28 08:40:48] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:40:54] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x6]
+[2025-10-28 08:40:54] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:41:00] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x7]
+[2025-10-28 08:41:00] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:41:06] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x8]
+[2025-10-28 08:41:06] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:41:12] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x8]
+[2025-10-28 08:41:13] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:41:19] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x8]
+[2025-10-28 08:41:19] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:41:25] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x5]
+[2025-10-28 08:41:55] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:42:01] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x6]
+[2025-10-28 08:42:01] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:42:07] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x8]
+[2025-10-28 08:42:07] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:42:13] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x6]
+[2025-10-28 08:42:13] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)
+[2025-10-28 08:42:16] restart: Requested by Console
+[2025-10-28 08:42:16] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 08:42:17] Stopping npchlc_traffic
+[2025-10-28 08:42:17] Stopping npc_hlc
+[2025-10-28 08:42:17] Stopping server_coldata
+[2025-10-28 08:42:18] Starting npchlc_traffic
+[2025-10-28 08:42:18] Starting npc_hlc
+[2025-10-28 08:42:18] Starting server_coldata
+[2025-10-28 08:42:22] npchlc_traffic restarted successfully
+[2025-10-28 08:42:23] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\server_coldata\collisions.lua:172: Invalid element model (6)  [DUP x4]
+[2025-10-28 08:42:23] WARN: Received excess unoccupied vehicle sync data (330 bytes)
+[2025-10-28 08:42:23] WARN: Received excess unoccupied vehicle sync data (260 bytes)
+[2025-10-28 08:42:23] WARN: Received excess unoccupied vehicle sync data (236 bytes)
+[2025-10-28 08:42:26] Loaded path map paths/maps/san_andreas in 7691 ms
+[2025-10-28 08:42:26] Loaded all path maps in 7713 ms
+[2025-10-28 08:54:14] QUIT: Jasper left the game [Timed out] 
+[2025-10-28 10:05:55] restart: Requested by Console
+[2025-10-28 10:05:55] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:05:55] Stopping npchlc_traffic
+[2025-10-28 10:05:55] Stopping npc_hlc
+[2025-10-28 10:05:55] Stopping server_coldata
+[2025-10-28 10:05:56] Starting npchlc_traffic
+[2025-10-28 10:05:56] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:05:56] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:05:56] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:05:56] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:05:56] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:05:56] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:05:56] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:05:56] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:05:56] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:05:56] Starting npc_hlc
+[2025-10-28 10:05:56] SCRIPT ERROR: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\npc_reactions_s.lua:3: '(' expected near 'onPedHijackedFromVehicle'
+[2025-10-28 10:05:56] ERROR: Loading script failed: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\npc_reactions_s.lua:3: '(' expected near 'onPedHijackedFromVehicle'
+[2025-10-28 10:05:56] Starting server_coldata
+[2025-10-28 10:05:57] Loaded path map paths/maps/san_andreas in 889 ms
+[2025-10-28 10:05:57] Loaded all path maps in 896 ms
+[2025-10-28 10:05:57] npchlc_traffic restarted successfully
+[2025-10-28 10:15:39] restart: Requested by Console
+[2025-10-28 10:15:39] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:15:39] Stopping npchlc_traffic
+[2025-10-28 10:15:39] Stopping npc_hlc
+[2025-10-28 10:15:39] Stopping server_coldata
+[2025-10-28 10:15:39] Starting npchlc_traffic
+[2025-10-28 10:15:39] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:15:39] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:39] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:39] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:39] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:39] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:39] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:39] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:15:39] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:15:39] Starting npc_hlc
+[2025-10-28 10:15:39] SCRIPT ERROR: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\npc_reactions_s.lua:5: '(' expected near '='
+[2025-10-28 10:15:39] ERROR: Loading script failed: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\npc_reactions_s.lua:5: '(' expected near '='
+[2025-10-28 10:15:39] Starting server_coldata
+[2025-10-28 10:15:40] Loaded path map paths/maps/san_andreas in 851 ms
+[2025-10-28 10:15:40] Loaded all path maps in 851 ms
+[2025-10-28 10:15:40] npchlc_traffic restarted successfully
+[2025-10-28 10:15:58] restart: Requested by Console
+[2025-10-28 10:15:58] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:15:58] Stopping npchlc_traffic
+[2025-10-28 10:15:58] Stopping npc_hlc
+[2025-10-28 10:15:58] Stopping server_coldata
+[2025-10-28 10:15:59] Starting npchlc_traffic
+[2025-10-28 10:15:59] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:15:59] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:59] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:59] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:59] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:59] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:59] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:15:59] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:15:59] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:15:59] Starting npc_hlc
+[2025-10-28 10:15:59] Starting server_coldata
+[2025-10-28 10:15:59] Loaded path map paths/maps/san_andreas in 844 ms
+[2025-10-28 10:15:59] Loaded all path maps in 844 ms
+[2025-10-28 10:16:00] npchlc_traffic restarted successfully
+[2025-10-28 10:16:26] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-28 10:16:27] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-28 10:17:44] ERROR: [traffic]\[npc_hlc]\npc_hlc\npc_events_s.lua:16: attempt to call global 'isNPCHLCEnabled' (a nil value)
+[2025-10-28 10:19:00] restart: Requested by Console
+[2025-10-28 10:19:00] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:19:00] Stopping npchlc_traffic
+[2025-10-28 10:19:00] Stopping npc_hlc
+[2025-10-28 10:19:00] Stopping server_coldata
+[2025-10-28 10:19:00] Starting npchlc_traffic
+[2025-10-28 10:19:00] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:19:00] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:19:00] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:19:00] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:19:00] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:19:00] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:19:00] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:19:00] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:19:00] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:19:00] Starting npc_hlc
+[2025-10-28 10:19:00] Starting server_coldata
+[2025-10-28 10:19:02] Loaded path map paths/maps/san_andreas in 1034 ms
+[2025-10-28 10:19:02] Loaded all path maps in 1042 ms
+[2025-10-28 10:19:02] npchlc_traffic restarted successfully
+[2025-10-28 10:20:30] restart: Requested by Console
+[2025-10-28 10:20:30] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:20:30] Stopping npchlc_traffic
+[2025-10-28 10:20:30] Stopping npc_hlc
+[2025-10-28 10:20:30] Stopping server_coldata
+[2025-10-28 10:20:30] Starting npchlc_traffic
+[2025-10-28 10:20:30] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:20:30] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:20:30] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:20:30] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:20:30] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:20:30] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:20:30] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:20:30] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:20:30] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:20:30] Starting npc_hlc
+[2025-10-28 10:20:30] Starting server_coldata
+[2025-10-28 10:20:31] Loaded path map paths/maps/san_andreas in 933 ms
+[2025-10-28 10:20:31] Loaded all path maps in 934 ms
+[2025-10-28 10:20:31] npchlc_traffic restarted successfully
+[2025-10-28 10:20:31] WARN: Received excess unoccupied vehicle sync data (46 bytes)
+[2025-10-28 10:20:50] INFO: Triggered ped got jacked
+[2025-10-28 10:20:50] ERROR: [traffic]\[npc_hlc]\npc_hlc\npc_events_s.lua:18: attempt to call field 'onPedHijackedFromVehicle' (a nil value)
+[2025-10-28 10:21:42] restart: Requested by Console
+[2025-10-28 10:21:42] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:21:42] Stopping npchlc_traffic
+[2025-10-28 10:21:42] Stopping npc_hlc
+[2025-10-28 10:21:42] Stopping server_coldata
+[2025-10-28 10:21:42] Starting npchlc_traffic
+[2025-10-28 10:21:43] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:21:43] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:21:43] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:21:43] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:21:43] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:21:43] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:21:43] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:21:43] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:21:43] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:21:43] Starting npc_hlc
+[2025-10-28 10:21:43] SCRIPT ERROR: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\npc_reactions_s.lua:5: '(' expected near '['
+[2025-10-28 10:21:43] ERROR: Loading script failed: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\npc_reactions_s.lua:5: '(' expected near '['
+[2025-10-28 10:21:43] Starting server_coldata
+[2025-10-28 10:21:43] Loaded path map paths/maps/san_andreas in 896 ms
+[2025-10-28 10:21:43] Loaded all path maps in 896 ms
+[2025-10-28 10:21:44] npchlc_traffic restarted successfully
+[2025-10-28 10:22:53] restart: Requested by Console
+[2025-10-28 10:22:53] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:22:53] Stopping npchlc_traffic
+[2025-10-28 10:22:53] Stopping npc_hlc
+[2025-10-28 10:22:53] Stopping server_coldata
+[2025-10-28 10:22:53] Starting npchlc_traffic
+[2025-10-28 10:22:53] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:22:53] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:22:53] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:22:53] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:22:53] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:22:53] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:22:53] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:22:53] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:22:53] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:22:53] Starting npc_hlc
+[2025-10-28 10:22:53] SCRIPT ERROR: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\npc_reactions_s.lua:16: '(' expected near '['
+[2025-10-28 10:22:53] ERROR: Loading script failed: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\npc_reactions_s.lua:16: '(' expected near '['
+[2025-10-28 10:22:53] Starting server_coldata
+[2025-10-28 10:22:54] Loaded path map paths/maps/san_andreas in 870 ms
+[2025-10-28 10:22:54] Loaded all path maps in 870 ms
+[2025-10-28 10:22:54] npchlc_traffic restarted successfully
+[2025-10-28 10:22:54] WARN: Received excess unoccupied vehicle sync data (160 bytes)
+[2025-10-28 10:23:19] restart: Requested by Console
+[2025-10-28 10:23:19] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:23:19] Stopping npchlc_traffic
+[2025-10-28 10:23:19] Stopping npc_hlc
+[2025-10-28 10:23:19] Stopping server_coldata
+[2025-10-28 10:23:19] Starting npchlc_traffic
+[2025-10-28 10:23:19] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:23:19] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:23:19] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:23:19] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:23:19] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:23:19] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:23:19] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:23:19] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:23:19] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:23:19] Starting npc_hlc
+[2025-10-28 10:23:19] Starting server_coldata
+[2025-10-28 10:23:20] Loaded path map paths/maps/san_andreas in 851 ms
+[2025-10-28 10:23:20] Loaded all path maps in 851 ms
+[2025-10-28 10:23:20] npchlc_traffic restarted successfully
+[2025-10-28 10:23:20] WARN: Received excess unoccupied vehicle sync data (89 bytes)
+[2025-10-28 10:23:36] INFO: Triggered ped got jacked
+[2025-10-28 10:24:37] restart: Requested by Console
+[2025-10-28 10:24:37] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:24:37] Stopping npchlc_traffic
+[2025-10-28 10:24:37] Stopping npc_hlc
+[2025-10-28 10:24:37] Stopping server_coldata
+[2025-10-28 10:24:38] Starting npchlc_traffic
+[2025-10-28 10:24:38] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:24:38] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:24:38] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:24:38] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:24:38] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:24:38] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:24:38] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:24:38] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:24:38] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:24:38] Starting npc_hlc
+[2025-10-28 10:24:38] Starting server_coldata
+[2025-10-28 10:24:38] Loaded path map paths/maps/san_andreas in 827 ms
+[2025-10-28 10:24:38] Loaded all path maps in 831 ms
+[2025-10-28 10:24:39] npchlc_traffic restarted successfully
+[2025-10-28 10:24:53] INFO: Triggered ped got jacked
+[2025-10-28 10:24:53] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:25:30] ACL: Denied 'PeacefulDreams' access to command 'restart'
+[2025-10-28 10:25:36] ACL: Denied 'PeacefulDreams' access to command 'restart'
+[2025-10-28 10:25:42] restart: Requested by Console
+[2025-10-28 10:25:42] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:25:42] Stopping npchlc_traffic
+[2025-10-28 10:25:42] Stopping npc_hlc
+[2025-10-28 10:25:42] Stopping server_coldata
+[2025-10-28 10:25:42] Starting npchlc_traffic
+[2025-10-28 10:25:42] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:25:42] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:25:42] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:25:42] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:25:42] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:25:42] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:25:42] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2025-10-28 10:25:42] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:25:42] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:25:42] Starting npc_hlc
+[2025-10-28 10:25:42] Starting server_coldata
+[2025-10-28 10:25:43] Loaded path map paths/maps/san_andreas in 830 ms
+[2025-10-28 10:25:43] Loaded all path maps in 831 ms
+[2025-10-28 10:25:43] npchlc_traffic restarted successfully
+[2025-10-28 10:25:43] WARN: Received excess unoccupied vehicle sync data (109 bytes)
+[2025-10-28 10:25:53] INFO: Triggered ped got jacked
+[2025-10-28 10:25:53] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:26:25] ACL: Denied 'PeacefulDreams' access to command 'restart'
+[2025-10-28 10:26:28] restart: Requested by Console
+[2025-10-28 10:26:28] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:26:28] Stopping npchlc_traffic
+[2025-10-28 10:26:28] Stopping npc_hlc
+[2025-10-28 10:26:28] Stopping server_coldata
+[2025-10-28 10:26:28] Starting npchlc_traffic
+[2025-10-28 10:26:28] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:26:28] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:26:28] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:26:28] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:26:28] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:26:28] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:26:28] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:26:28] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:26:28] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:26:28] Starting npc_hlc
+[2025-10-28 10:26:28] Starting server_coldata
+[2025-10-28 10:26:29] Loaded path map paths/maps/san_andreas in 824 ms
+[2025-10-28 10:26:29] Loaded all path maps in 825 ms
+[2025-10-28 10:26:29] npchlc_traffic restarted successfully
+[2025-10-28 10:26:38] INFO: Triggered ped got jacked
+[2025-10-28 10:26:44] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:27:34] INFO: postData: '{ "username": "Jasper", "password": "star500" }'
+[2025-10-28 10:27:34] INFO: Got here 1
+[2025-10-28 10:27:34] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"star500","email":"test@test.com","model":6,"bank":100000,"cash":500,"weapons":[{"id":22,"ammo":1000},{"id":31,"ammo":1000}],"vehicles":[],"sessions":[{"ip":"","serial":"","session_start":"","session_end":""}],"__v":0}]
+[2025-10-28 10:27:34] INFO: nil
+[2025-10-28 10:27:34] INFO: table: 107E45A0
+[2025-10-28 10:27:34] NICK: PeacefulDreams is now known as Jasper
+[2025-10-28 10:27:34] LOGIN: (Everyone, Admin) Jasper successfully logged in as 'Jasper' (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43)
+[2025-10-28 10:27:38] SCRIPT: Jasper set their script debug mode to 3
+[2025-10-28 10:28:10] restart: Requested by Jasper
+[2025-10-28 10:28:10] Stopping npchlc_traffic
+[2025-10-28 10:28:10] Stopping npc_hlc
+[2025-10-28 10:28:10] Stopping server_coldata
+[2025-10-28 10:28:10] Starting npchlc_traffic
+[2025-10-28 10:28:10] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:28:10] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:28:10] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:28:10] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:28:10] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:28:10] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:28:10] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:28:10] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:28:10] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:28:10] Starting npc_hlc
+[2025-10-28 10:28:10] Starting server_coldata
+[2025-10-28 10:28:11] Loaded path map paths/maps/san_andreas in 908 ms
+[2025-10-28 10:28:11] Loaded all path maps in 908 ms
+[2025-10-28 10:28:11] npchlc_traffic restarted successfully
+[2025-10-28 10:28:11] WARN: Received excess unoccupied vehicle sync data (194 bytes)
+[2025-10-28 10:28:37] INFO: Triggered ped got jacked
+[2025-10-28 10:28:37] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:29:29] restart: Requested by Jasper
+[2025-10-28 10:29:29] Stopping npchlc_traffic
+[2025-10-28 10:29:29] Stopping npc_hlc
+[2025-10-28 10:29:29] Stopping server_coldata
+[2025-10-28 10:29:29] Starting npchlc_traffic
+[2025-10-28 10:29:29] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:29:30] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:29:30] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:29:30] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:29:30] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:29:30] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:29:30] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:29:30] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:29:30] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:29:30] Starting npc_hlc
+[2025-10-28 10:29:30] Starting server_coldata
+[2025-10-28 10:29:30] Loaded path map paths/maps/san_andreas in 909 ms
+[2025-10-28 10:29:30] Loaded all path maps in 909 ms
+[2025-10-28 10:29:31] npchlc_traffic restarted successfully
+[2025-10-28 10:29:50] INFO: Triggered ped got jacked
+[2025-10-28 10:29:50] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:34:37] restart: Requested by Jasper
+[2025-10-28 10:34:37] Stopping npchlc_traffic
+[2025-10-28 10:34:37] Stopping npc_hlc
+[2025-10-28 10:34:37] Stopping server_coldata
+[2025-10-28 10:34:37] Resource 'npchlc_traffic' changed, reloading and starting
+[2025-10-28 10:34:37] Starting npchlc_traffic
+[2025-10-28 10:34:37] Starting npc_hlc
+[2025-10-28 10:34:37] Starting server_coldata
+[2025-10-28 10:34:38] Loaded path map paths/maps/san_andreas in 869 ms
+[2025-10-28 10:34:38] Loaded all path maps in 870 ms
+[2025-10-28 10:34:38] npchlc_traffic restarted successfully
+[2025-10-28 10:35:18] INFO: Triggered ped got jacked
+[2025-10-28 10:35:24] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:36:04] restart: Requested by Jasper
+[2025-10-28 10:36:04] Stopping npchlc_traffic
+[2025-10-28 10:36:04] Stopping npc_hlc
+[2025-10-28 10:36:04] Stopping server_coldata
+[2025-10-28 10:36:04] Starting npchlc_traffic
+[2025-10-28 10:36:04] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:36:04] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:36:04] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:36:04] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:36:04] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:36:04] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:36:04] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:36:04] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:36:04] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:36:04] Starting npc_hlc
+[2025-10-28 10:36:04] Starting server_coldata
+[2025-10-28 10:36:04] Loaded path map paths/maps/san_andreas in 817 ms
+[2025-10-28 10:36:04] Loaded all path maps in 817 ms
+[2025-10-28 10:36:05] npchlc_traffic restarted successfully
+[2025-10-28 10:36:05] WARN: Received excess unoccupied vehicle sync data (286 bytes)
+[2025-10-28 10:36:21] INFO: Triggered ped got jacked
+[2025-10-28 10:36:21] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:37:19] INFO: Triggered ped got jacked
+[2025-10-28 10:37:19] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:37:46] restart: Requested by Jasper
+[2025-10-28 10:37:46] Stopping npchlc_traffic
+[2025-10-28 10:37:46] Stopping npc_hlc
+[2025-10-28 10:37:46] Stopping server_coldata
+[2025-10-28 10:37:46] Starting npchlc_traffic
+[2025-10-28 10:37:46] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:37:46] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:37:46] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:37:46] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:37:46] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:37:46] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:37:46] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:37:46] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:37:46] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:37:46] Starting npc_hlc
+[2025-10-28 10:37:46] Starting server_coldata
+[2025-10-28 10:37:47] Loaded path map paths/maps/san_andreas in 845 ms
+[2025-10-28 10:37:47] Loaded all path maps in 847 ms
+[2025-10-28 10:37:47] npchlc_traffic restarted successfully
+[2025-10-28 10:38:06] INFO: Triggered ped got jacked
+[2025-10-28 10:38:12] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:38:47] INFO: Triggered ped got jacked
+[2025-10-28 10:38:47] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:39:21] INFO: Triggered ped got jacked
+[2025-10-28 10:39:21] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:39:56] INFO: Triggered ped got jacked
+[2025-10-28 10:40:02] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:40:26] INFO: Triggered ped got jacked
+[2025-10-28 10:40:26] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:43:12] INFO: Triggered ped got jacked
+[2025-10-28 10:43:12] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:45:46] QUIT: Jasper left the game [Quit] 
+[2025-10-28 10:45:53] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-28 10:45:54] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-28 10:46:01] QUIT: PeacefulDreams left the game [Quit] 
+[2025-10-28 10:46:29] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-28 10:46:30] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-28 10:47:07] INFO: postData: '{ "username": "Jasper", "password": "star500" }'
+[2025-10-28 10:47:07] INFO: Got here 1
+[2025-10-28 10:47:07] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"star500","email":"test@test.com","model":6,"bank":100000,"cash":500,"weapons":[{"id":22,"ammo":1000},{"id":31,"ammo":1000}],"vehicles":[],"sessions":[{"ip":"","serial":"","session_start":"","session_end":""}],"__v":0}]
+[2025-10-28 10:47:07] INFO: nil
+[2025-10-28 10:47:07] INFO: table: 0833E580
+[2025-10-28 10:47:07] NICK: PeacefulDreams is now known as Jasper
+[2025-10-28 10:47:07] LOGIN: (Everyone, Admin) Jasper successfully logged in as 'Jasper' (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43)
+[2025-10-28 10:47:47] INFO: Triggered ped got jacked
+[2025-10-28 10:47:47] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:47:50] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:47:50] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:47:56] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:47:56] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:47:56] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:47:56] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:02] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:02] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:02] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:02] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:08] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:08] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:08] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:08] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:14] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:14] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:14] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:14] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:20] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:20] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:20] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:20] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:26] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:26] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:27] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:27] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:33] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:33] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:33] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:33] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:39] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:39] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:39] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:39] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:45] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:45] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:45] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:45] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:51] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:51] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:51] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:51] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:48:57] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:48:57] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:48:57] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:48:57] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:49:03] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:49:03] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:49:03] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:49:03] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:49:09] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:49:09] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:49:09] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]
+[2025-10-28 10:49:09] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:49:14] restart: Requested by Console
+[2025-10-28 10:49:14] restart: Resource 'npchlc_traffic' restarting...
+[2025-10-28 10:49:14] Stopping npchlc_traffic
+[2025-10-28 10:49:14] Stopping npc_hlc
+[2025-10-28 10:49:14] Stopping server_coldata
+[2025-10-28 10:49:14] Starting npchlc_traffic
+[2025-10-28 10:49:14] Resource 'npc_hlc' changed, reloading and starting
+[2025-10-28 10:49:14] WARNING: npc_hlc/actions_s.lua(Line 260) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:49:14] WARNING: npc_hlc/actions_s.lua(Line 268) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:49:14] WARNING: npc_hlc/actions_s.lua(Line 310) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:49:14] WARNING: npc_hlc/actions_s.lua(Line 318) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:49:14] WARNING: npc_hlc/actions_s.lua(Line 367) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:49:14] WARNING: npc_hlc/actions_s.lua(Line 375) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity.
+[2025-10-28 10:49:14] Some files in 'npc_hlc' use deprecated functions.
+[2025-10-28 10:49:14] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2025-10-28 10:49:14] Starting npc_hlc
+[2025-10-28 10:49:14] Starting server_coldata
+[2025-10-28 10:49:15] Loaded path map paths/maps/san_andreas in 825 ms
+[2025-10-28 10:49:15] Loaded all path maps in 825 ms
+[2025-10-28 10:49:15] npchlc_traffic restarted successfully
+[2025-10-28 10:49:15] WARNING: [custom]\[gameplay]\[traffic]\[npc_hlc]\npc_hlc\tasks_s.lua:90: Bad argument @ 'getElementSyncer' [Expected element at argument 1, got boolean]  [DUP x2]
+[2025-10-28 10:49:15] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:49:32] INFO: Triggered ped got jacked
+[2025-10-28 10:49:32] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:49:34] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:49:40] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:49:40] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:49:46] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:49:46] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:49:52] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:49:52] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:49:58] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:49:59] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:50:05] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:50:05] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:50:11] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value  [DUP x2]
+[2025-10-28 10:50:11] ERROR: [traffic]\[npc_hlc]\npc_hlc\control_npc_s.lua:55: attempt to perform arithmetic on a nil value
+[2025-10-28 10:50:48] INFO: Triggered ped got jacked
+[2025-10-28 10:50:48] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:51:08] INFO: Triggered ped got jacked
+[2025-10-28 10:51:08] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:51:31] INFO: Triggered ped got jacked
+[2025-10-28 10:51:37] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:52:30] INFO: Triggered ped got jacked
+[2025-10-28 10:52:30] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:53:03] INFO: Triggered ped got jacked
+[2025-10-28 10:53:03] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:53:36] INFO: Triggered ped got jacked
+[2025-10-28 10:53:42] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:53:52] INFO: Triggered ped got jacked
+[2025-10-28 10:53:52] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 10:59:43] INFO: Triggered ped got jacked
+[2025-10-28 10:59:43] INFO: Triggered function onpedHijackedfromVehicle
+[2025-10-28 11:08:33] start: Requested by Jasper
+[2025-10-28 11:10:08] QUIT: Jasper left the game [Quit] 
+[2025-10-28 12:09:34] CONNECT: PeacefulDreams connected (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43  Version: 1.6.0-9.23324.0)
+[2025-10-28 12:09:34] JOIN: PeacefulDreams joined the game (IP: 192.168.10.69)
+[2025-10-28 12:12:23] ACL: Denied 'PeacefulDreams' access to command 'restart'
+[2025-10-28 12:12:29] INFO: postData: '{ "username": "Jasper", "password": "star500" }'
+[2025-10-28 12:12:29] INFO: Got here 1
+[2025-10-28 12:12:29] INFO: [{"_id":"68fa14db061d86e1b7649fbc","username":"Jasper","password":"star500","email":"test@test.com","model":6,"bank":100000,"cash":500,"weapons":[{"id":22,"ammo":1000},{"id":31,"ammo":1000}],"vehicles":[],"sessions":[{"ip":"","serial":"","session_start":"","session_end":""}],"__v":0}]
+[2025-10-28 12:12:29] INFO: nil
+[2025-10-28 12:12:29] INFO: table: 0AE00B50
+[2025-10-28 12:12:29] NICK: PeacefulDreams is now known as Jasper
+[2025-10-28 12:12:29] LOGIN: (Everyone, Admin) Jasper successfully logged in as 'Jasper' (IP: 192.168.10.69  Serial: 8C64CB028BBDACE4307A504ECA192C43)
+[2025-10-28 12:12:40] start: Requested by Jasper
+[2025-10-28 12:12:40] Starting alphafade
+[2025-10-28 12:14:26] ERROR: [traffic]\[npc_hlc]\npchlc_traffic\node_lanes.lua:91: attempt to perform arithmetic on field '?' (a nil value)
+[2025-10-28 12:14:32] ERROR: [traffic]\[npc_hlc]\npchlc_traffic\node_lanes.lua:91: attempt to perform arithmetic on field '?' (a nil value)
+[2025-10-28 12:18:19] restart: Requested by Jasper
+[2025-10-28 12:18:19] Stopping alphafade
+[2025-10-28 12:18:19] Resource 'alphafade' changed, reloading and starting
+[2025-10-28 12:18:19] Starting alphafade
+[2025-10-28 12:18:19] alphafade restarted successfully
+[2025-10-28 12:19:07] restart: Requested by Jasper
+[2025-10-28 12:19:07] Stopping alphafade
+[2025-10-28 12:19:07] Resource 'alphafade' changed, reloading and starting
+[2025-10-28 12:19:07] Starting alphafade
+[2025-10-28 12:19:07] alphafade restarted successfully
+[2025-10-28 12:19:41] restart: Requested by Jasper
+[2025-10-28 12:19:41] Stopping alphafade
+[2025-10-28 12:19:41] Resource 'alphafade' changed, reloading and starting
+[2025-10-28 12:19:41] Starting alphafade
+[2025-10-28 12:19:41] alphafade restarted successfully
+[2025-10-28 12:21:08] QUIT: Jasper left the game [Quit] 

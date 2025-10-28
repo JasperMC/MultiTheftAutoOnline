@@ -5,6 +5,10 @@
 	<script src="npc_functions.lua"		type="client"	/>
 	<script src="npc_hlc_s.lua"			type="server"	/>
 	<script src="npc_hlc_c.lua"			type="client" 	/>
+	<!-- Custom -->
+	<script src="npc_events_s.lua"		type="server"	/>
+	<script src="npc_reactions_s.lua" 	type="server"	/>
+	<!-- End custom -->
 	<script src="control_npc_s.lua"		type="server"	/>
 	<script src="control_npc_c.lua"		type="client" 	/>
 	<script src="valid_tasks_s.lua"		type="server"	/>

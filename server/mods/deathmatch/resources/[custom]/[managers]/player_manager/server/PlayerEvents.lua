@@ -35,9 +35,9 @@ addEventHandler("onPlayerRequestLogin", root,
                         print(responseData)
                         print(responseData[0])
                         print(fromJSON(responseData))
-                        for k,v in pairs(fromJSON(responseData)) do
-                            print(k .. ": " .. v )
-                        end
+                        --for k,v in pairs(fromJSON(responseData)) do
+                        --    print(k .. ": " .. v )
+                        --end
 
                         logPlayerIn( source, fromJSON(responseData) )
                     else

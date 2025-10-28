@@ -13,9 +13,25 @@ function logPlayerIn( player, data )
     if isElement(player) and data then
         setElementData( player, 'player_manager:id', '_id')
         setPlayerName( player, data['username'])
+        local serverAccount = getAccount( data['username'], data['password'] )
+        if serverAccount then
+            if not isGuestAccount(serverAccount) then
+                logIn( player, serverAccount, data['password'])
+            end
+        end
+        applyPlayerData(player, data)
+        outputChatBox( "You are now logged in", player, 255, 0, 0)
+        outputChatBox("Welcome back, " .. RGBToHex(getPlayerNametagColor(player)) .. getPlayerName(player) .. "!", player, 255,255,255, true)
+    end
+end
+
+function applyPlayerData( player, data )
+    if isElement(player) and data then
         setElementModel( player, data['model'])
         setPlayerMoney( player, data['cash'])
-
+        for i, weapon in ipairs(data["weapons"]) do
+            giveWeapon( player, weapon["id"], weapon["ammo"], false)
+        end
     end
 end
 

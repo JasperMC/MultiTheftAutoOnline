@@ -148,7 +148,7 @@ function getElementIntersectionBox(element)
 	if box_model[box] then return box end
 	local model = getElementModel(element)
 	if not model or not bs_r[model] then
-		outputDebugString("Invalid element model",2)
+		outputDebugString("Invalid element model (" .. model .. ")",2)
 		return false
 	end
 
@@ -169,7 +169,7 @@ function updateElementColData(element)
 	local model = getElementModel(element)
 	local radius = bs_r[model]
 	if not radius then
-		outputDebugString("Invalid element model",2)
+		outputDebugString("Invalid element model (" .. model .. ")",2)
 		return false
 	end
 

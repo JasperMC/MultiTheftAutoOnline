@@ -331,6 +331,7 @@ function spawnTrafficInSquare(x,y,dim,trtype)
 				addEventHandler("onElementDestroy",ped2,removePedFromListOnDestroy,false)
 				addEventHandler("onPedWasted",ped2,removeDeadPed,false)
 				population.peds[ped2] = true
+				call(npc_hlc,"enableHLCForNPC",ped2,"walk",0.99,speed)
 			end
 
 			if maxpass >= 2 and math.random() < 0.25 then
@@ -341,6 +342,7 @@ function spawnTrafficInSquare(x,y,dim,trtype)
 				addEventHandler("onElementDestroy",ped3,removePedFromListOnDestroy,false)
 				addEventHandler("onPedWasted",ped3,removeDeadPed,false)
 				population.peds[ped3] = true
+				call(npc_hlc,"enableHLCForNPC",ped3,"walk",0.99,speed)
 			end
 
 			if maxpass >= 3 and math.random() < 0.25 then
@@ -351,6 +353,7 @@ function spawnTrafficInSquare(x,y,dim,trtype)
 				addEventHandler("onElementDestroy",ped4,removePedFromListOnDestroy,false)
 				addEventHandler("onPedWasted",ped4,removeDeadPed,false)
 				population.peds[ped4] = true
+				call(npc_hlc,"enableHLCForNPC",ped4,"walk",0.99,speed)
 			end
 
 			setElementVelocity(car,vx,vy,vz)
