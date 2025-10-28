@@ -1,5 +1,9 @@
 <map edf:definitions="vehiclespawnpoints">
-    <vehiclespawnpoint group="land" subgroup="2-Door & Compact Cars" spawn_type="chance" spawn_data="0.5" posX="2441.2863769531" posY="2021.1108398438" posZ="10.547395706177" rotX="0.0001220703125" rotY="0" rotZ="89.718933105469" interior="0" dimension="0" />
-    <vehiclespawnpoint group="land" subgroup="2-Door & Compact Cars" spawn_type="always" posX="2441.2875976562" posY="2013.2021484375" posZ="10.547394752502" rotX="0.0001220703125" rotY="0" rotZ="89.422668457031" interior="0" dimension="0" />
-    <vehiclespawnpoint group="land" subgroup="bikes" spawn_type="always" posX="2449.1433105469" posY="1991.4626464844" posZ="10.547393798828" rotX="0.0001220703125" rotY="0" rotZ="179.79144287109" interior="0" dimension="0" />
+    <city name="Las Venturas">
+        <zone name="">
+            <vehiclespawnpoint group="land" subgroup="2-Door & Compact Cars" spawn_type="chance" spawn_data="0.5" posX="2441.2863769531" posY="2021.1108398438" posZ="10.547395706177" rotX="0.0001220703125" rotY="0" rotZ="89.718933105469" interior="0" dimension="0" />
+            <vehiclespawnpoint group="land" subgroup="2-Door & Compact Cars" spawn_type="always" posX="2441.2875976562" posY="2013.2021484375" posZ="10.547394752502" rotX="0.0001220703125" rotY="0" rotZ="89.422668457031" interior="0" dimension="0" />
+            <vehiclespawnpoint group="land" subgroup="bikes" spawn_type="always" posX="2449.1433105469" posY="1991.4626464844" posZ="10.547393798828" rotX="0.0001220703125" rotY="0" rotZ="179.79144287109" interior="0" dimension="0" />
+        </zone>
+    </city>
 </map>
