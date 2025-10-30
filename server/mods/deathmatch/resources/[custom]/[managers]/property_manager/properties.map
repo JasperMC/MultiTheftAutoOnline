@@ -1,0 +1,6 @@
+<map edf:definitions="property_manager">
+    <property id="jaspershouse" name="Jasper's House">
+        <marker type="cylinder" color="0,0,255" size="0.8" posX="2197.2712402344" posY="-60.770488739014" posZ="27.153549194336" rotX="-0" rotY="0" rotZ="90.045234680176" interior="0" dimension="0" />
+        <marker type="cylinder" color="0,0,255" size="0.8" posX="2197.2702636719" posY="-69.760177612305" posZ="26.4765625" rotX="-0" rotY="0" rotZ="90.671913146973" interior="0" dimension="0 />
+    </property>
+</map>

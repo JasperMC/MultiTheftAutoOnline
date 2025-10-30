@@ -56,6 +56,10 @@
         <acl name="autoACL_runcode"></acl>
         <object name="resource.runcode"></object>
     </group>
+    <group name="autoGroup_guieditor">
+        <acl name="autoACL_guieditor"></acl>
+        <object name="resource.guieditor"></object>
+    </group>
     <acl name="Default">
         <right name="general.ModifyOtherObjects" access="false"></right>
         <right name="general.http" access="false"></right>
@@ -859,5 +863,9 @@
     </acl>
     <acl name="autoACL_runcode">
         <right name="function.loadstring" access="false" who="" pending="true" date=""></right>
+    </acl>
+    <acl name="autoACL_guieditor">
+        <right name="general.ModifyOtherObjects" access="false" who="" pending="true" date=""></right>
+        <right name="function.callRemote" access="false" who="" pending="true" date=""></right>
     </acl>
 </acl>

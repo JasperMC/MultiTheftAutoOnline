@@ -1,0 +1,5 @@
+<def>
+    <element name="property" friendlyname="Property">
+        <data name="name" type="string" />
+    </element>
+</def>

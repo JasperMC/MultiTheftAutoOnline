@@ -5,6 +5,13 @@ addCommandHandler("vloc",
     end
 )
 
+addCommandHandler("loc", 
+    function()
+         
+        elementLocationToString( localPlayer, "map")
+    end
+)
+
 function elementLocationToString( element, format )
     local x,y,z = getElementPosition( element )
     local rx,ry,rz = getElementRotation(element)

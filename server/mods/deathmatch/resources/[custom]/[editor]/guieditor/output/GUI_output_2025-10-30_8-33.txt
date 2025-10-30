@@ -1,0 +1,25 @@
+
+GUIEditor = {}
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+        GUIEditor.window_editor = guiCreateWindow(1394, 321, 228, 279, "Vehicle Spawnpoint", false)
+        guiWindowSetSizable(GUIEditor.window_editor, false)
+
+        GUIEditor.button_create = guiCreateButton(10, 246, 81, 23, "Create", false, GUIEditor.window_editor)
+        GUIEditor.combobox_group = guiCreateComboBox(76, 41, 142, 23, "", false, GUIEditor.window_editor)
+        guiComboBoxAddItem(GUIEditor.combobox_group, "Land")
+        GUIEditor.label_group = guiCreateLabel(10, 45, 56, 15, "Group", false, GUIEditor.window_editor)
+        GUIEditor.label_subgroup = guiCreateLabel(10, 78, 56, 15, "Subgroup", false, GUIEditor.window_editor)
+        GUIEditor.combobox_subgroup = guiCreateComboBox(76, 74, 142, 23, "", false, GUIEditor.window_editor)
+        GUIEditor.checkbox_lock_rotation = guiCreateCheckBox(10, 221, 208, 15, "Lock rotation", false, false, GUIEditor.window_editor)
+        GUIEditor.combobox_spawn_type = guiCreateComboBox(76, 155, 142, 23, "", false, GUIEditor.window_editor)
+        GUIEditor.label_spawn_type = guiCreateLabel(10, 156, 56, 15, "Type", false, GUIEditor.window_editor)
+        GUIEditor.combobox_spawn_data = guiCreateComboBox(76, 188, 142, 23, "", false, GUIEditor.window_editor)
+        GUIEditor.label_spawn_data = guiCreateLabel(10, 190, 56, 15, "Data", false, GUIEditor.window_editor)
+        GUIEditor.button_close = guiCreateButton(137, 246, 81, 23, "Close", false, GUIEditor.window_editor)
+        GUIEditor.label_model = guiCreateLabel(10, 20, 56, 15, "Model(s)", false, GUIEditor.window_editor)
+        guiSetFont(GUIEditor.label_model, "default-bold-small")
+        GUIEditor.label_spawn = guiCreateLabel(10, 135, 85, 15, "Spawn Options", false, GUIEditor.window_editor)
+        guiSetFont(GUIEditor.label_spawn, "default-bold-small")    
+    end
+)

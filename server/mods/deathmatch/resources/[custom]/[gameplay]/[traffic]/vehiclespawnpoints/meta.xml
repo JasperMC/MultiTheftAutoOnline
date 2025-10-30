@@ -6,5 +6,9 @@
     <script src="server/vehiclespawnpoint_s.lua" type="server" />
     <script src="client/client.lua" type="client" />
     <script src="client/util.lua" type="client" />
+
+    <!-- Editor-->
+    <script src="server/editor_s.lua" type="server" />
+    <script src="client/editor_c.lua" type="client" />
     <map src="vehiclespawnpoints.map" />
 </meta>

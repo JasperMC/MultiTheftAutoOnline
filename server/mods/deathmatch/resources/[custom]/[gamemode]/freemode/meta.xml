@@ -9,5 +9,6 @@
     <include resource="interiors" />
 
     <!-- Ped Traffic-->
-    <include resource="newtraffic" />
+    <include resource="npchlc_traffic" />
+    <include resource="vehiclespawnpoints" />
 </meta>

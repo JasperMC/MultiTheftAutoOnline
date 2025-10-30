@@ -4,8 +4,6 @@ PropertyManager = [
 ]
 
 function PropertyManager.Start()
-    mapNode = xmlLoadFile( "properties.map")
-    mapRoot = loadMapData( mapNode )
 end
 
 function PropertyManager.Stop()

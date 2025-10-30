@@ -1,4 +1,5 @@
 <meta>
-    <info name="Property Manager" description="" author="Jasper" version="1.0" />
+    <info name="Property Manager" description="" author="Jasper" version="1.0" edf:definition="edf/property.edf" />
     <script src="server/PropertyManager.lua" type="server" />
+    <map src="properties.map" />
 </meta>

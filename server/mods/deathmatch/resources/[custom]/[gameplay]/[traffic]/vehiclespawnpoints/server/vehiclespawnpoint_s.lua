@@ -21,6 +21,9 @@ function spawnVehicleSpawnpoint( vehiclespawnpoint )
 end
 
 function spawnVehicleSpawnpointVehicle( vehiclespawnpoint )
+    if not isElement(vehiclespawnpoint) then
+        outputDebugString("Spawnpoint is not an element. Is the map corrupt?", 1)
+    end
     local x, y, z = getElementPosition( vehiclespawnpoint )
     local rx, ry, rz = tonumber(getElementData( vehiclespawnpoint, "rotX" )), tonumber(getElementData( vehiclespawnpoint, "rotY" )), tonumber(getElementData( vehiclespawnpoint, "rotZ" ))
 
@@ -45,8 +48,8 @@ function spawnVehicleSpawnpointVehicle( vehiclespawnpoint )
         model = 411
     end
 
-    print("Creating model " .. tostring(model) .. " (" .. getVehicleNameFromModel(model) .. ") at " .. tostring(x) .. ", " .. tostring(y) .. ", " .. tostring(z) )
-    print(" with rotation: " .. tostring(rx) .. ", " .. tostring(ry) .. ", " .. tostring(rz) )
+    --print("Creating model " .. tostring(model) .. " (" .. getVehicleNameFromModel(model) .. ") at " .. tostring(x) .. ", " .. tostring(y) .. ", " .. tostring(z) )
+    --print(" with rotation: " .. tostring(rx) .. ", " .. tostring(ry) .. ", " .. tostring(rz) )
     -- Create vehicle
     local vehicle = createVehicle( model, x, y, z, rx, ry, rz )
     --setElementPosition( vehicle, x, y, z + getElementDistanceFromCentreOfMassToBaseOfModel(vehicle) )
@@ -64,16 +67,22 @@ addEvent("onPlayerNearVehicleSpawnpoints", true)
 addEventHandler("onPlayerNearVehicleSpawnpoints", root,
     function( vehiclespawnpoints )
         print(getPlayerName(source) .. " is near " .. tostring(#vehiclespawnpoints) .. " vehicle spawnpoints")
-        for i, vehiclespawnpoint in ipairs(vehiclespawnpoints) do
-            if shouldVehicleSpawnpointVehicleBeCreated( vehiclespawnpoint ) then
-                print("Vehicle should be spawned!")
-                spawnVehicleSpawnpointVehicle( vehiclespawnpoint )
+        for _, vehiclespawnpoint in ipairs(vehiclespawnpoints) do
+            if isElement(vehiclespawnpoint) then
+                if shouldVehicleSpawnpointVehicleBeCreated( vehiclespawnpoint ) then
+                    print("Vehicle should be spawned!")
+                    spawnVehicleSpawnpointVehicle( vehiclespawnpoint )
+                else
+                    print("Vehicle should not be spawned")
+                end
             else
-                print("Vehicle should not be spawned")
+                print("Spawnpoint is not an element")
             end
         end
     end
 )
+
+
 
 addEventHandler("onResourceStart", resourceRoot,
 function()
@@ -89,6 +98,14 @@ function()
     ]]
 
 end
+)
+
+addEventHandler("rmvsp",
+    function(player, cmd, text)
+        local v = getPedOccupiedVehicle(player)
+        local vehiclespawnpoint = getElementParent(v)
+        destroyElement(vehiclespawnpoint)
+    end
 )
 
 

@@ -12,5 +12,7 @@ function shouldVehicleSpawnpointVehicleBeCreated( vehiclespawnpoint )
         local start_hours, start_minutes
         local end_hours, end_minutes
         return ( hours >= start_hours and minutes >= start_minutes ) and ( hours <= end_hour and minutes <= end_minutes )
+    else -- In case it is a parking spot
+        return true
     end
 end
